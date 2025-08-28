@@ -1,0 +1,824 @@
+Number	First	Evolved	True	Ultra	PageName	Rarity
+000	Cat	Macho Cat	Mohawk Cat		Cat (Normal Cat)	N
+001	Tank Cat	Wall Cat	Eraser Cat		Tank Cat (Normal Cat)	N
+002	Axe Cat	Brave Cat	Dark Cat		Axe Cat (Normal Cat)	N
+003	Gross Cat	Sexy Legs Cat	Macho Leg Cat		Gross Cat (Normal Cat)	N
+004	Cow Cat	Giraffe Cat	Lion Cat		Cow Cat (Normal Cat)	N
+005	Bird Cat	UFO Cat	The Flying Cat		Bird Cat (Normal Cat)	N
+006	Fish Cat	Whale Cat	Island Cat		Fish Cat (Normal Cat)	N
+007	Lizard Cat	Dragon Cat	King Dragon Cat		Lizard Cat (Normal Cat)	N
+008	Titan Cat	Mythical Titan Cat	Jamiera Cat		Titan Cat (Normal Cat)	N
+009	Actress Cat	Mother Cat	Beefcake Cat		Actress Cat (Special Cat)	EX
+010	Kung Fu Cat	Drunken Master Cat	Dancer Cat		Kung Fu Cat (Special Cat)	EX
+011	Mr.	Super Mr.	Hyper Mr.		Mr. (Special Cat)	EX
+012	Bondage Cat	Bondage CatNEO	Ultimate Bondage Cat		Bondage Cat (Special Cat)	EX
+013	Dom Cat	Executioner	Dark Lazer		Dom Cat (Special Cat)	EX
+014	Cats in a Box	Cat Gang	Heavy Assault C.A.T.		Cats in a Box (Special Cat)	EX
+015	Panties Cat	Leaf Cat	Lollycat		Panties Cat (Special Cat)	EX
+016	Moneko	Miss MONEKO	Superstar MONEKO		Moneko (Special Cat)	EX
+017	Tricycle Cat	Biker Cat	Unicycle Cat		Tricycle Cat (Special Cat)	EX
+018	Ninja Cat	Ninja Frog Cat	Flying Ninja Cat		Ninja Cat (Special Cat)	EX
+019	Zombie Cat	Devil Cat	Skelecat		Zombie Cat (Special Cat)	EX
+020	Samurai Cat	Knight Cat	Pastry Cat		Samurai Cat (Special Cat)	EX
+021	Sumo Cat	Madame Sumo	Riceball Cat		Sumo Cat (Special Cat)	EX
+022	Boogie Cat	Samba Cat	Gato Amigo		Boogie Cat (Special Cat)	EX
+023	Skirt Cat	Tights Cat	Loincloth Cat		Skirt Cat (Special Cat)	EX
+024	Valkyrie Cat	True Valkyrie Cat	Holy Valkyrie Cat		Valkyrie Cat (Special Cat)	EX
+025	Bahamut Cat	Crazed Bahamut Cat	Awakened Bahamut Cat		Bahamut Cat (Special Cat)	EX
+026	Kerihime	Full color Kerihime	Bridal Princess Punt		Kerihime (Special Cat)	EX
+027	Cat Princess	Cat Princess beauty			Cat Princess (Special Cat)	EX
+028	Capsule Cat	Cramped Cats			Capsule Cat (Special Cat)	EX
+029	Masked Cat	Luchador Cat			Masked Cat (Special Cat)	EX
+030	Bodhisattva Cat	Avalokitesvara Cat	Tathagata Cat		Bodhisattva Cat (Super Rare Cat)	SR
+031	Delinquent Cat	Angry Delinquent Cat	Ultra Delinquent Cat		Delinquent Cat (Super Rare Cat)	SR
+032	Hip Hop Cat	Dancing Flasher Cat	Can Can Cat		Hip Hop Cat (Super Rare Cat)	SR
+033	Kotatsu Cat	Sadako Cat	Octopus Cat		Kotatsu Cat (Super Rare Cat)	SR
+034	Nekoluga	Unknown Cat	Ultralan Pasalan		Nekoluga (Uber Rare Cat)	UR
+035	Nerd Cat	Hacker Cat	Cyberpunk Cat		Nerd Cat (Super Rare Cat)	SR
+036	Swimmer Cat	Butterfly Cat	Fishman Cat		Swimmer Cat (Super Rare Cat)	SR
+037	Pogo Cat	Masai Cat	Jiangshi Cat		Pogo Cat (Rare Cat)	RR
+038	Wheel Cat	Solar Cat	Chill Cat		Wheel Cat (Rare Cat)	RR
+039	Apple Cat	Face Cat	iCat		Apple Cat (Super Rare Cat)	SR
+040	Bath Cat	Sexy Bathtub Cat	Luxury Bath Cat		Bath Cat (Super Rare Cat)	SR
+041	Salon Cat	Paris Cat	Cyborg Cat		Salon Cat (Rare Cat)	RR
+042	Ice Cat	Ice Queen Cat	Ice Crystal Cat		Ice Cat (Uber Rare Cat)	UR
+043	Cat Machine	Cat Machine Mk 2	Cat Machine Mk 3		Cat Machine (Uber Rare Cat)	UR
+044	Lesser Demon Cat	Greater Demon Cat	Greater Balrog Cat		Lesser Demon Cat (Uber Rare Cat)	UR
+045	Maiko Cat	Geisha Cat			Maiko Cat (Special Cat)	EX
+046	Jurassic Cat	Jurassic Cat Sitter	Catasaurus		Jurassic Cat (Rare Cat)	RR
+047	Viking Cat	Thor Cat	Maximum the Fighter		Viking Cat (Rare Cat)	RR
+048	Pirate Cat	Captain Cat	Dread Pirate Catley		Pirate Cat (Rare Cat)	RR
+049	Thief Cat	Phantom Thief Cat	Goemon Cat		Thief Cat (Rare Cat)	RR
+050	Bishop Cat	Monk Cat	Sanzo Cat		Bishop Cat (Rare Cat)	RR
+051	Fortune Teller Cat	Fisherman Cat	Doctor Cat		Fortune Teller Cat (Rare Cat)	RR
+052	Shaman Cat	Necromancer Cat	Necro-Dancer Cat		Shaman Cat (Rare Cat)	RR
+053	Evangelist Cat	Filibuster Cat			Evangelist Cat (Uber Rare Cat)	UR
+054	Type 10	Cat Transportation Type 10			Type 10 (Special Cat)	EX
+055	Witch Cat	Sorceress Cat	Enchantress Cat		Witch Cat (Rare Cat)	RR
+056	Archer Cat	Cupid Cat	Cataur		Archer Cat (Rare Cat)	RR
+057	Marauder Cat	Berserker Cat	Paladin Cat		Marauder Cat (Uber Rare Cat)	UR
+058	Swordsman Cat	Sword Master Cat	Elemental Duelist Cat		Swordsman Cat (Rare Cat)	RR
+059	Baby Cat	Baby Cats	Cats in the Cradle	Cats in the Stroller	Baby Cat (Uber Rare Cat)	UR
+060	Bronze Cat	Michelangelo Cat	Quizmaster Cat		Bronze Cat (Rare Cat)	RR
+061	Sushi Cat	Fried Shrimp Cat	Roe Cat		Sushi Cat (Super Rare Cat)	SR
+062	Toy Machine Cat	Vendor Cat			Toy Machine Cat (Special Cat)	EX
+063	Sports Day Cat	Kidnapper Cats	Rampage Cats		Sports Day Cat (Rare Cat)	RR
+064	Swordsman	Swordsman Johnny			Swordsman (Rare Cat)	RR
+065	Cow Princess	Giraffe Princess			Cow Princess (Rare Cat)	RR
+066	PPT48	Dark PPT48	PPT46		PPT48 (Uber Rare Cat)	UR
+067	Li'l Gau	Li'l Gau Gau	Crystal Li'l Gau Gau		Li'l Gau (Rare Cat)	RR
+068	Reaper	Reaper 999	Judgment		Reaper (Super Rare Cat)	SR
+069	Sleeping Beauty Punt	Sleeping Beauty Punt II	Oversleeping Beauty Punt		Sleeping Beauty Punt (Super Rare Cat)	SR
+070	Salaryman Cat	Grudge Cat	Ritual Cat		Salaryman Cat (Rare Cat)	RR
+071	Sanada Yukimura	Wargod Yukimura	Immortal Yukimura		Sanada Yukimura (Uber Rare Cat)	UR
+072	Maeda Keiji	Wargod Keiji	Immortal Keiji		Maeda Keiji (Uber Rare Cat)	UR
+073	Oda Nobunaga	Wargod Nobunaga	Immortal Nobunaga	Phantasmal Nobunaga	Oda Nobunaga (Uber Rare Cat)	UR
+074	Reindeer Fish Cat	Sashimi Cat	Xmas Pudding Cat		Reindeer Fish Cat (Rare Cat)	RR
+075	Windy	Windy, type α	Divine Windy	Ultimate Windy	Windy (Uber Rare Cat)	UR
+076	Thundia	Thundia, type β	Divine Thundia	Ultimate Thundia	Thundia (Uber Rare Cat)	UR
+077	Droid Cat	Droid Cat Mk 2	SpringDroid		Droid Cat (Rare Cat)	RR
+078	Space Cat	Major Space Cat	Space Marine Cat		Space Cat (Rare Cat)	RR
+079	Adult Cat	Sick Cat	Prisoner Cat		Adult Cat (Rare Cat)	RR
+080	Evil Cat	Gentleman Cat	Gentleman Bros.		Evil Cat (Rare Cat)	RR
+081	Doll Cats	Cat-o-tron	Nyalladin		Doll Cats (Rare Cat)	RR
+082	Blue Shinobi	Orange Shinobi			Blue Shinobi (Special Cat)	EX
+083	Sodom	Earth King Sodom	God-Emperor Sodom		Sodom (Uber Rare Cat)	UR
+084	Megidora	Holy Dragon Megidora	God-Emperor Megidora		Megidora (Uber Rare Cat)	UR
+085	Vars	Dragon King Vars	God-Emperor Vars		Vars (Uber Rare Cat)	UR
+086	Kamukura	God Dragon Kamukura	God-Emperor Kamukura		Kamukura (Uber Rare Cat)	UR
+087	Raiden	Dragonslayer Raiden	God-Emperor Raiden		Raiden (Uber Rare Cat)	UR
+088	Rope Jump Cat	Pair Rope Jump Cat	Noodle Cats		Rope Jump Cat (Rare Cat)	RR
+089	Nimue	Neutralization Type Nimue			Nimue (Uber Rare Cat)	UR
+090	Monkey King	SSS Monkey King			Monkey King (Uber Rare Cat)	UR
+091	Crazed Cat	Crazed Macho Cat	Manic Mohawk Cat		Crazed Cat (Super Rare Cat)	SR
+092	Crazed Tank Cat	Crazed Wall Cat	Manic Eraser Cat		Crazed Tank Cat (Super Rare Cat)	SR
+093	Crazed Axe Cat	Crazed Brave Cat	Manic Dark Cat		Crazed Axe Cat (Super Rare Cat)	SR
+094	Crazed Gross Cat	Crazed Sexy Legs Cat	Manic Macho Legs		Crazed Gross Cat (Super Rare Cat)	SR
+095	Crazed Cow Cat	Crazed Giraffe Cat	Manic Lion Cat		Crazed Cow Cat (Super Rare Cat)	SR
+096	Crazed Bird Cat	Crazed UFO Cat	Manic Flying Cat		Crazed Bird Cat (Super Rare Cat)	SR
+097	Crazed Fish Cat	Crazed Whale Cat	Manic Island Cat		Crazed Fish Cat (Super Rare Cat)	SR
+098	Crazed Lizard Cat	Crazed Dragon Cat	Manic King Dragon		Crazed Lizard Cat (Super Rare Cat)	SR
+099	Crazed Titan Cat	Crazed M. Titan Cat	Manic Jamiera Cat		Crazed Titan Cat (Super Rare Cat)	SR
+100	Maiden Cat	Sportsgirl Cat	Wrestling Cat		Maiden Cat (Rare Cat)	RR
+101	Clone Elle	Clone Elle CC			Clone Elle (Special Cat)	EX
+102	Red Marron	Red Marron CC			Red Marron (Special Cat)	EX
+103	Cabaret Cat	Mega Cat	Mega Cat EX		Cabaret Cat (Special Cat)	EX
+104	Koi Cat	Gross Koi Cat	Kiss and Koi		Koi Cat (Rare Cat)	RR
+105	Kuu	Kuu, type γ	Divine Kuu		Kuu (Uber Rare Cat)	UR
+106	Kai	Kai, type μ	Divine Kai		Kai (Uber Rare Cat)	UR
+107	Coppermine	Coppermine, type κ	Divine Coppermine		Coppermine (Uber Rare Cat)	UR
+108	Cat Bros EX	Secret Base			Cat Bros (Special Cat)	EX
+109	Madam Bride	Madam King	Madam the Savannah		Madam Bride (Rare Cat)	RR
+110	Celesse	Celesse CC			Celesse (Rare Cat)	RR
+111	Nono	Nono CC	Frolicking Nono CC		Nono (Rare Cat)	RR
+112	Olga	Olga CC			Olga (Rare Cat)	RR
+113	Norn	Norn CC			Norn (Rare Cat)	RR
+114	Yoichi	Yoichi CC			Yoichi (Rare Cat)	RR
+115	Serum	Serum CC			Serum (Rare Cat)	RR
+116	Fuu	Fuu CC			Fuu (Rare Cat)	RR
+117	Aura	Aura CC			Aura (Super Rare Cat)	SR
+118	Rei	Rei CC			Rei (Super Rare Cat)	SR
+119	Wyvern	Wyvern Cat	Wyvern and Alec		Wyvern (Uber Rare Cat)	UR
+120	Healer	Healer CC	Healer Cat CC		Healer (Special Cat)	EX
+121	Merc	Merc CC	Merc & Cat CC		Merc (Special Cat)	EX
+122	Vacation Queen	Office Lady Cat	Call Center Cat		Vacation Queen (Rare Cat)	RR
+123	Bean Cats	Brah Cats	Val Val Cat		Bean Cats (Special Cat)	EX
+124	Date Masamune	Wargod Masamune	Immortal Masamune		Date Masamune (Uber Rare Cat)	UR
+125	Takeda Shingen	Wargod Shingen	Immortal Shingen		Takeda Shingen (Uber Rare Cat)	UR
+126	Clockwork Cat	Puppetmaster Cat	Puppetmaster & Charley		Clockwork Cat (Rare Cat)	RR
+127	Flower Cat	Cooldown Cat	Bombercat		Flower Cat (Special Cat)	EX
+128	Vengeful Cat	Groucho Cat	Kite Cat		Vengeful Cat (Rare Cat)	RR
+129	Gold Cat	Gold Macho Cat	Glittering Macho Cat		Gold Cat (Super Rare Cat)	SR
+130	Ururun Wolf	Ururun Cat	Awakened Ururun		Ururun Wolf (Special Cat)	EX
+131	Neneko	Miss NENEKO			Neneko (Super Rare Cat)	SR
+132	Kung Fu Cat X	Drunken Master Cat X	Iron Claw X		Kung Fu Cat X (Rare Cat)	RR
+133	Hikakin	Bikyakin	Mukyakin		Hikakin (Special Cat)	EX
+134	Urashima Taro	Guardian Gamereon	King Gamereon		Urashima Taro (Uber Rare Cat)	UR
+135	The Grateful Crane	Super Galaxy Cosmo	Ultima Galaxy Cosmo	Supernova Cosmo	The Grateful Crane (Uber Rare Cat)	UR
+136	Momotaro	The Peach Angels	The Peach Devils		Momotaro (Uber Rare Cat)	UR
+137	Kasa Jizo	Jizo's Moving Castle	Jizo's Mega-Castle		Kasa Jizo (Uber Rare Cat)	UR
+138	Princess Kaguya	The Death Moon	The Chaos Moon	Ultra Kaguya	Princess Kaguya (Uber Rare Cat)	UR
+139	Nekondo	Nekondo HG	Nekondo SP		Nekondo (Special Cat)	EX
+140	Squish Ball Cat	Muscleman Cat			Squish Ball Cat (Special Cat)	EX
+141	God	Secret God			God (Special Cat)	EX
+142	Tutorial Cat	Behind Tutorial			Tutorial Cat (Special Cat)	EX
+143	Nurse Cat	Heartful Nurse Cat	Joyful Nurse Cat		Nurse Cat (Uber Rare Cat)	UR
+144	Cat Base Mini	Cat Base Jr.	Cat Base Ultra		Cat Base Mini (Super Rare Cat)	SR
+145	Cat Gunslinger	Cat Eastwood	Rodeo Cat		Cat Gunslinger (Rare Cat)	RR
+146	Stilts Cat	Totem Cat	Acrobat Cats		Stilts Cat (Rare Cat)	RR
+147	Tin Cat	Plane Cat	Robocat		Tin Cat (Rare Cat)	RR
+148	Rocker Cat	Artist Cat	Ramen Cat		Rocker Cat (Rare Cat)	RR
+149	Mer-Cat	Commando Cat	Cameraman Cat		Mer-Cat (Rare Cat)	RR
+150	Juliet Cat	Princess Juliet Cat	Juliet the Maiko		Juliet Cat (Super Rare Cat)	SR
+151	Weightlifter Cat	Ring Girl Cat	Pizza Cat		Weightlifter Cat (Super Rare Cat)	SR
+152	Figure Skating Cats	Drama Cats	Slapstick Cats		Figure Skating Cats (Super Rare Cat)	SR
+153	Cat Toaster	Cat Projector	Catophone		Cat Toaster (Super Rare Cat)	SR
+154	Hoop Cat	Showoff Cat	Hoopmaster Cat		Hoop Cat (Rare Cat)	RR
+155	Chicken Cat	Rooster Cat			Chicken Cat (Uber Rare Cat)	UR
+156	Dragon League Swordsman	Dragon League Witch			Dragon League Swordsman (Rare Cat)	RR
+157	Nubobo	Gorubo			Nubobo (Special Cat)	EX
+158	Uesugi Kenshin	Wargod Kenshin	Immortal Kenshin	Hellrider Kenshin	Uesugi Kenshin (Uber Rare Cat)	UR
+159	Kalisa	Kalisa, type χ	Divine Kalisa		Kalisa (Uber Rare Cat)	UR
+160	Yurinchi	Phoenix Yurinchi	Gekirinchi		Yurinchi (Super Rare Cat)	SR
+161	Crazed Princess Punt	Crazed Princess Punt CC	Manic Princess Punt		Crazed Princess Punt (Uber Rare Cat)	UR
+162	Sho Ayanokoji	Shoyan & Cat			Sho Ayanokoji (Special Cat)	EX
+163	Hikaru Saotome	Hikaru & Cat			Hikaru Saotome (Special Cat)	EX
+164	Hitomi Saionji	Tommy & Cat			Hitomi Saionji (Special Cat)	EX
+165	Hoshi Grandmarnier	Ranma & Cat			Hoshi Grandmarnier (Special Cat)	EX
+166	Shouchikubai Shiratori	Matsu & Cat			Shouchikubai Shiratori (Special Cat)	EX
+167	Yankee Cat	Sukeban Cat			Yankee Cat (Rare Cat)	RR
+168	Asiluga	Asilan Pasalan	Assassinlan Pasalan		Asiluga (Uber Rare Cat)	UR
+169	Kubiluga	Kubilan Pasalan	E. Kubilan Pasalan		Kubiluga (Uber Rare Cat)	UR
+170	Tecoluga	Tesalan Pasalan	Lufalan Pasalan		Tecoluga (Uber Rare Cat)	UR
+171	Balaluga	Balalan Pasalan	Piccolan Pasalan		Balaluga (Uber Rare Cat)	UR
+172	Li'l Nyandam	Dark Emperor Catdam	Schoolbus Nyandam		Li'l Nyandam (Special Cat)	EX
+173	Baby Mola	Young Man Mola	Citizen Mola		Baby Mola (Super Rare Cat)	SR
+174	Mola King	Living Legend	Master of the Pacific		Mola King (Uber Rare Cat)	UR
+175	Meowla Meowla	Catorpedo			Meowla Meowla (Special Cat)	EX
+176	Marshmallow Cat	Creepmallow			Marshmallow Cat (Rare Cat)	RR
+177	Dioramos	Archdragon Dioramos	God-Emperor Dioramos	Ascendant Dioramos	Dioramos (Uber Rare Cat)	UR
+178	Mob Cat	Yakuza Vampire			Mob Cat (Special Cat)	EX
+179	Takuya & Yuki	Takuya, Yuki & Cat	Takuya & Lovely Yuki		Takuya & Yuki (Rare Cat)	RR
+180	Mystery Girl Yuki	Mystery Yuki & Cat	Mystery Catgirl Yuki		Mystery Girl Yuki (Uber Rare Cat)	UR
+181	Yuki Cat	Lovely Yuki Cat			Yuki Cat (Special Cat)	EX
+182	Cuckoo Crew 12	Cuckoo Crew 12+1			Cuckoo Crew 12 (Special Cat)	EX
+183	Cat Kart R	Cat Kart G	Cat Kart P		Cat Kart R (Rare Cat)	RR
+184	Mr. Ninja	Mint			Mr. Ninja (Special Cat)	EX
+185	Hearscht	Hearscht CC	Revolutionary Hearscht CC		Hearscht (Uber Rare Cat)	UR
+186	Cornelia	Cornelia CC			Cornelia (Uber Rare Cat)	UR
+187	Juvens	Juvens CC	Holiday Juvens CC		Juvens (Uber Rare Cat)	UR
+188	Mystica	Mystica CC	Savior Mystica CC		Mystica (Uber Rare Cat)	UR
+189	Alois	Alois CC			Alois (Super Rare Cat)	SR
+190	Citrouille	Citrouille CC			Citrouille (Super Rare Cat)	SR
+191	Titi	Titi CC	Titi Cat CC		Titi (Special Cat)	EX
+192	Yamaoka Minori	Queen Minori			Yamaoka Minori (Special Cat)	EX
+193	Nakamura Kanae	Queen Kanae			Nakamura Kanae (Special Cat)	EX
+194	Akira	Shadow Akira	Inferno Akira		Akira (Uber Rare Cat)	UR
+195	Mekako Saionji	Dr. Mekako	Mission Control Mekako		Mekako Saionji (Uber Rare Cat)	UR
+196	Catman	Dark Catman	Ultimate Catman		Catman (Uber Rare Cat)	UR
+197	Psychocat	Neo Psychocat	Corrupted Psychocat		Psychocat (Rare Cat)	RR
+198	Onmyoji Cat	Magica Cat	Thaumaturge Cat		Onmyoji Cat (Rare Cat)	RR
+199	Surfer Cat	Castaway Cat	Seafarer Cat		Surfer Cat (Super Rare Cat)	SR
+200	Metal Cat	Metal Macho			Metal Cat (Super Rare Cat)	SR
+201	Drumcorps Cat	Banner Cat	Mochi Cat		Drumcorps Cat (Rare Cat)	RR
+202	Baozi Cat	Big Baozi			Baozi Cat (Special Cat)	EX
+203	Kachi-Kachi	Fire Squad Kachiyama	Kachiyama Assault Brigade		Kachi-Kachi (Uber Rare Cat)	UR
+204	Felyne	Felyne & Melynx			Felyne (Special Cat)	EX
+205	Sheria - Kirin	Sheria - KirinX			Sheria - Kirin (Special Cat)	EX
+206	Rathalos	Rathalos & Cat			Rathalos (Special Cat)	EX
+207	Rathian	Rathian & Cat			Rathian (Special Cat)	EX
+208	Kirin Cat	Kirin Cat Kirin			Kirin Cat (Special Cat)	EX
+209	Li'l Cat	Li'l Macho Cat	Li'l Mohawk Cat		Li'l Cat (Special Cat)	EX
+210	Li'l Tank Cat	Li'l Wall Cat	Li'l Eraser Cat		Li'l Tank Cat (Special Cat)	EX
+211	Li'l Axe Cat	Li'l Brave Cat	Li'l Dark Cat		Li'l Axe Cat (Special Cat)	EX
+212	The White Rabbit	The Black Cat	The Grey Fox	The Spectral Cat	The White Rabbit (Uber Rare Cat)	UR
+213	Catburger	Cat Royale	Value Meal Cat		Catburger (Special Cat)	EX
+214	HYAKUTARO	HYAKUTARO CC			HYAKUTARO (Rare Cat)	RR
+215	MARCO	MARCO CC			MARCO (Rare Cat)	RR
+216	TARMA	TARMA CC			TARMA (Rare Cat)	RR
+217	ERI	ERI CC			ERI (Rare Cat)	RR
+218	FIO	FIO CC			FIO (Rare Cat)	RR
+219	SV-001	SV-001 CC			SV-001 (Super Rare Cat)	SR
+220	ALLEN O'NEIL	ALLEN O'NEIL CC			ALLEN O'NEIL (Super Rare Cat)	SR
+221	MARS PEOPLE	MARS PEOPLE CC			MARS PEOPLE (Rare Cat)	RR
+222	HUGE HERMIT	HUGE HERMIT CC	GOLDEN HUGE HERMIT CC		HUGE HERMIT (Uber Rare Cat)	UR
+223	JUPITER KING	JUPITER KING CC	GOLDEN JUPITER CC		JUPITER KING (Uber Rare Cat)	UR
+224	DONALD MORDEN	GENERAL MORDEN	GOLDEN MORDEN CC		DONALD MORDEN (Uber Rare Cat)	UR
+225	HI-DO	HI-DO CC	HI-DO MK III		HI-DO (Uber Rare Cat)	UR
+226	Warlock and Pierre	Dark Merchant Babil	Mad Doctor Klay		Warlock and Pierre (Uber Rare Cat)	UR
+227	Pumpcat	Cat O'Lantern	Harbinger Cat		Pumpcat (Rare Cat)	RR
+228	Gloomy Neneko	Witchy Neneko	Costumed Witchy Neneko		Gloomy Neneko (Super Rare Cat)	SR
+229	Hallowindy	Hallowindy, type α			Hallowindy (Uber Rare Cat)	UR
+230	Spooky Thundia	Spooky Thundia, type β			Spooky Thundia (Uber Rare Cat)	UR
+231	Oden	Oden CC			Oden (Special Cat)	EX
+232	Junior God of Light - Valkyrie	Junior God of Light - Valkyrie CC			Junior God of Light - Valkyrie (Rare Cat)	RR
+233	Junior God Brynhildr	Junior God Brynhildr CC			Junior God Brynhildr (Rare Cat)	RR
+234	Junior God Suruzu	Junior God Suruzu CC			Junior God Suruzu (Rare Cat)	RR
+235	Goddess of Abundance - Freya	Goddess of Abundance - Freya CC			Goddess of Abundance - Freya (Super Rare Cat)	SR
+236	God of War - Odin	God of War - Odin CC			God of War - Odin (Uber Rare Cat)	UR
+237	Freshman Cat Jobs	Prof. Cat Jobs	Headmaster Cat Jobs		Freshman Cat Jobs (Super Rare Cat)	SR
+238	Rich Cat III	Rich Cat Sr.	Richest Cat		Rich Cat III (Super Rare Cat)	SR
+239	Sniper the Recruit	Sniper the Heavy	Sniper the Deadeye		Sniper the Recruit (Super Rare Cat)	SR
+240	Togeluga	Togelan Pasalan	Shishilan Pasalan		Togeluga (Uber Rare Cat)	UR
+241	Frosty Kai	Frosty Kai, type μ	Frostspirit Kai, type μ		Frosty Kai (Uber Rare Cat)	UR
+242	Santa Kuu	Santa Kuu, type γ			Santa Kuu (Uber Rare Cat)	UR
+243	Holy Coppermine	Holy Coppermine, type κ			Holy Coppermine (Uber Rare Cat)	UR
+244	A Gift of Cats	Cat's Gift			A Gift of Cats (Rare Cat)	RR
+245	Li'l Gross Cat	Li'l Sexy Legs Cat	Li'l Macho Legs Cat		Li'l Gross Cat (Special Cat)	EX
+246	Li'l Cow Cat	Li'l Giraffe Cat	Li'l Lion Cat		Li'l Cow Cat (Special Cat)	EX
+247	Li'l Bird Cat	Li'l UFO Cat	Li'l Flying Cat		Li'l Bird Cat (Special Cat)	EX
+248	Undead Cat	Bake-Nyanko	Extra-Life Cat		Undead Cat (Special Cat)	EX
+249	Castle Guard	Sailor Swordsman	Wise Swordsman		Castle Guard (Rare Cat)	RR
+250	Castle Horseman	Forest Horsemen Cavalry	Black Thunder Rider		Castle Horseman (Rare Cat)	RR
+251	Ashura	Warrior Ashura	Kabuki Ashura		Ashura (Rare Cat)	RR
+252	Battle Balloon	Pirate Battle Balloon	Battle UFO		Battle Balloon (Rare Cat)	RR
+253	Dragon Rider	Horn Dragon Rider	Flame Dragon Rider		Dragon Rider (Rare Cat)	RR
+254	Pretty Cat	Lovely Pretty Cat	Cyber Pretty Cat		Pretty Cat (Rare Cat)	RR
+255	Cyclops	Cyclops of Steel	4D Cyclops		Cyclops (Rare Cat)	RR
+256	Golem	Rabbit Golem	Volcano Golem		Golem (Special Cat)	EX
+257	Thunder God Zeus	The Majestic Zeus	Almighty Zeus		Thunder God Zeus (Uber Rare Cat)	UR
+258	Anubis the Protector	Anubis the Unblemished	Almighty Anubis		Anubis the Protector (Uber Rare Cat)	UR
+259	Radiant Aphrodite	Megaphrodite	Almighty Aphrodite		Radiant Aphrodite (Uber Rare Cat)	UR
+260	Catway	Drone Cat	Time Traveller Cat		Catway (Super Rare Cat)	SR
+261	Hayabusa	Oni Hayabusa	Akuma Hayabusa		Hayabusa (Uber Rare Cat)	UR
+262	Nyamusu	Neko Nyamusu			Nyamusu (Special Cat)	EX
+263	Pochi	Tank Pochi			Pochi (Special Cat)	EX
+264	Kuromi	Kuromi and Cats			Kuromi (Special Cat)	EX
+265	Setsuko	Setsuko Love Mackerel			Setsuko (Special Cat)	EX
+266	Nebaaru-kun	Nebaaru-kun and Cat			Nebaaru-kun (Special Cat)	EX
+267	Catornado	Hurricat	Catyphoon		Catornado (Super Rare Cat)	SR
+268	Red Riding Mina	Crimson Mina	Awakened Mina		Red Riding Mina (Special Cat)	EX
+269	Baby Gao	Mighty Lord Gao			Baby Gao (Uber Rare Cat)	UR
+270	Crazed Yuki	Crazed Yuki & Cat	Crazed Catgirl Yuki		Crazed Yuki (Uber Rare Cat)	UR
+271	Shining Amaterasu	Glorious Amaterasu	Almighty Amaterasu		Shining Amaterasu (Uber Rare Cat)	UR
+272	Splendid Ganesha	Exalted Ganesha	Almighty Ganesha		Splendid Ganesha (Uber Rare Cat)	UR
+273	Cheerleader Cat	Waitress Cat	Soba Cat		Cheerleader Cat (Super Rare Cat)	SR
+274	Tropical Kalisa	Tropical Kalisa, type X			Tropical Kalisa (Uber Rare Cat)	UR
+275	Midsummer Rabbit	Midsummer Cat	Brightsummer Cat		Midsummer Rabbit (Uber Rare Cat)	UR
+276	Sunny Neneko	Seaside Neneko	Early Summer Neneko		Sunny Neneko (Super Rare Cat)	SR
+277	Funghi	Funghi 'n' Cat			Funghi (Rare Cat)	RR
+278	Tanky	Tanky 'n' Cat			Tanky (Special Cat)	EX
+279	White Cat	Gross White Cat			White Cat (Special Cat)	EX
+280	Fortressy	Castley			Fortressy (Special Cat)	EX
+281	Futenyan	Massaging Futenyan			Futenyan (Rare Cat)	RR
+282	Awa-Odori Cat	So-Ran Cat	Gorgeous Groovin' Cat		Awa-Odori Cat (Rare Cat)	RR
+283	Pai-Pai	Pai-Pai Z	Pai-Pai DX		Pai-Pai (Uber Rare Cat)	UR
+284	Express Cat	Maglev Cat	Bullet Train Cat		Express Cat (Super Rare Cat)	SR
+285	Crazed Baozi Cat	Crazed Big Baozi Cat			Crazed Baozi Cat (Special Cat)	EX
+286	Strike Unit R.E.I.	Assault Unit R.E.I.	Flight Unit R.E.I.		Strike Unit R.E.I. (Uber Rare Cat)	UR
+287	Little Leaguer Cat	Major Leaguer Cat	Golfer Cat		Little Leaguer Cat (Super Rare Cat)	SR
+288	Madoka Kaname	Madoka & Cat	Ultimate Madoka		Madoka Kaname (Uber Rare Cat)	UR
+289	Homura Akemi	Homura & Cat	Devil Homura		Homura Akemi (Uber Rare Cat)	UR
+290	Sayaka Miki	Sayaka & Cat			Sayaka Miki (Uber Rare Cat)	UR
+291	Mami Tomoe	Mami & Cat			Mami Tomoe (Uber Rare Cat)	UR
+292	Kyoko Sakura	Kyoko & Cat			Kyoko Sakura (Uber Rare Cat)	UR
+293	Kyubey	Kyubey & Cat			Kyubey (Super Rare Cat)	SR
+294	Madoka Cat	Magical Girl Madoka Cat			Madoka Cat (Rare Cat)	RR
+295	Homura Cat	Magical Girl Homura Cat			Homura Cat (Rare Cat)	RR
+296	Sayaka Cat	Magical Girl Sayaka Cat			Sayaka Cat (Rare Cat)	RR
+297	Mami Cat	Magical Girl Mami Cat			Mami Cat (Rare Cat)	RR
+298	Kyoko Cat	Magical Girl Kyoko Cat			Kyoko Cat (Rare Cat)	RR
+299	Li'l Madoka	Li'l Magical Girl Madoka	Li'l Ultimate Madoka		Li'l Madoka (Rare Cat)	RR
+300	Li'l Homura	Li'l Magical Girl Homura	Li'l Devil Homura		Li'l Homura (Special Cat)	EX
+301	Kyubey Cat	Tank Kyubey Cat			Kyubey Cat (Rare Cat)	RR
+302	Lilith Cat	Succubus Cat	Queen Succubus Cat		Lilith Cat (Uber Rare Cat)	UR
+303	Food Stall Cat	Delivery Cat	Cafeteria Cat		Food Stall Cat (Rare Cat)	RR
+304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth	CAT-10 Gigapult	Mighty Kat-A-Pult (Uber Rare Cat)	UR
+305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw	B.C.S. Beartooth	Mighty Drednot (Uber Rare Cat)	UR
+306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel	NEK-03 Cloud Emperor	Mighty Bomburr (Uber Rare Cat)	UR
+307	Vaulter Cat	Polevaulter Cat	Housewife Cat		Vaulter Cat (Super Rare Cat)	SR
+308	Gardener Cat	Lumbercat	Weedwacker Cat		Gardener Cat (Rare Cat)	RR
+309	Neko Hakase	Neko Hakase and Cat			Neko Hakase (Special Cat)	EX
+310	Yuletide Nurse	Yule Knight Nurse	Xmas Spirit Nurse		Yuletide Nurse (Uber Rare Cat)	UR
+311	Li'l Fish Cat	Li'l Whale Cat	Li'l Island Cat		Li'l Fish Cat (Special Cat)	EX
+312	Li'l Lizard Cat	Li'l Dragon Cat	Li'l King Dragon Cat		Li'l Lizard Cat (Special Cat)	EX
+313	Li'l Titan Cat	Li'l Mythical Titan	Li'l Jamiera Cat		Li'l Titan Cat (Special Cat)	EX
+314	Years-End Neneko	New Year Neneko	Festive New Year Neneko		Years-End Neneko (Super Rare Cat)	SR
+315	PIKOTARO	NEKOTARO			PIKOTARO (Rare Cat)	RR
+316	Wrathful Poseidon	Valiant Poseidon	Almighty Poseidon		Wrathful Poseidon (Uber Rare Cat)	UR
+317	CPAC	PPAP			CPAC (Special Cat)	EX
+318	Miko Mitama	Mitama the Oracle			Miko Mitama (Uber Rare Cat)	UR
+319	Killer Cat	True Killer Cat	Radical Cat		Killer Cat (Rare Cat)	RR
+320	Hiroshi Mihara	One Two Three ~ Hara Idols Cat	Idol Mihara & Cat		Hiroshi Mihara (Rare Cat)	RR
+321	Nazousagi	Miya Ōdō Rabbit			Nazousagi (Special Cat)	EX
+322	Sarukani	Rock Revengers	The One-Hit Wonders		Sarukani (Uber Rare Cat)	UR
+323	Miyamoku Musashi	Heroic Musashi	Awakened Musashi		Miyamoku Musashi (Special Cat)	EX
+324	Curling Cat	Zamboney Cat	Green Shell Cat		Curling Cat (Rare Cat)	RR
+325	Welterweight Cat	Heavyweight Cat	Ectoweight Cat		Welterweight Cat (Rare Cat)	RR
+326	Mobius	Miraculous Mobius			Mobius (Uber Rare Cat)	UR
+327	Belial	Reckless Belial			Belial (Super Rare Cat)	SR
+328	Happy 100	Heartful Happy 100			Happy 100 (Special Cat)	EX
+329	Eggy Cat	Easter Cat	Easter Egg Cat		Eggy Cat (Rare Cat)	RR
+330	Springtime Kenshin	Full-Bloom Kenshin	Spring Breeze Kenshin		Springtime Kenshin (Uber Rare Cat)	UR
+331	Bunny & Canard	Disciple Psychoduck	Malevolent Mad-Duck		Bunny & Canard (Uber Rare Cat)	UR
+332	Easter Neneko	Hoppity Neneko	Blossoming Neneko		Easter Neneko (Super Rare Cat)	SR
+333	Shadow Gao	Diabolic Gao			Shadow Gao (Uber Rare Cat)	UR
+334	Trickster Himeyuri	Himeyuri Ninetails	Fox Queen Himeyuri		Trickster Himeyuri (Uber Rare Cat)	UR
+335	Sea Maiden Ruri	Sea Mistress Ruri	Mer-Queen Ruri		Sea Maiden Ruri (Uber Rare Cat)	UR
+336	Queen Reika	Pharaoh Reika	Eternal Reika		Queen Reika (Uber Rare Cat)	UR
+337	HMS Princess	HMS Princess CC	HMS Princess II CC		HMS Princess (Uber Rare Cat)	UR
+338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto		Imagawa Yoshimoto (Uber Rare Cat)	UR
+339	Iron Wall Cat				Ototo Corps#Base Upgrade Materials/Information	EX
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	Redhead Muscled Yuki Cat		Redhead Yuki Cat (Rare Cat)	RR
+341	Lost World Yuki	Lost World Yuki & Cat	Lost World Catgirl Yuki		Lost World Yuki (Uber Rare Cat)	UR
+342	Maneki Cat	Neo Maneki Cat			Maneki Cat (Special Cat)	EX
+343	Slug Jockey Cat	Slugcat			Slug Jockey Cat (Rare Cat)	RR
+344	Orthos	Orthos CC	Artist Orthos CC		Orthos (Super Rare Cat)	SR
+345	Michelia	Michelia CC	Naptime Michelia CC		Michelia (Uber Rare Cat)	UR
+346	Todomeki	Todomeki CC			Todomeki (Uber Rare Cat)	UR
+347	Gudetama Cat	Gude Omelette Cat	Gudebene Cat		Gudetama Cat (Special Cat)	EX
+348	Gudetama Plate	Gudetama Bacon Plate			Gudetama Plate (Rare Cat)	RR
+349	Gudegude Pudding	Gudegude à la mode			Gudegude Pudding (Super Rare Cat)	SR
+350	Nisetama Army	Nisetama Cat Army			Nisetama Army (Uber Rare Cat)	UR
+351	Twinstars	Twinstars, type Φ	Divine Twinstars		Twinstars (Uber Rare Cat)	UR
+352	Hermit Cat	Grandmaster Cat	Masked Grandmaster Cat		Hermit Cat (Special Cat)	EX
+353	Cat Slave Chocolate	Cat and Chocolate	Chocolate Cat		Cat Slave Chocolate (Rare Cat)	RR
+354	Seashore Kai	Seashore Kai, type μ			Seashore Kai (Uber Rare Cat)	UR
+355	Mighty Rekon Korps	Orbital Platform Armageddon	Orbital Annihilator Ragnarok		Mighty Rekon Korps (Uber Rare Cat)	UR
+356	Nora	Awakened Nora			Nora (Special Cat)	EX
+357	Wolfchild Deale	Wolf Princess Deale	Jester Queen Deale		Wolfchild Deale (Uber Rare Cat)	UR
+358	Graveflower Verbena	Verbena the Bride	Opulent Verbena		Graveflower Verbena (Uber Rare Cat)	UR
+359	Bora	Bazibon	Bazibastra	Bazifenix	Bora (Uber Rare Cat)	UR
+360	Mizli	Marinmizu	Mizuririn		Mizli (Uber Rare Cat)	UR
+361	Aer	Erphuan	Aervanta	Aervantex	Aer (Uber Rare Cat)	UR
+362	Saber	Saber CC	Saber Alter CC		Saber (Uber Rare Cat)	UR
+363	Rin Tohsaka	Rin Tohsaka CC			Rin Tohsaka (Uber Rare Cat)	UR
+364	Illyasviel	Illyasviel CC			Illyasviel (Uber Rare Cat)	UR
+365	Archer	Archer CC			Archer (Uber Rare Cat)	UR
+366	Lancer	Lancer CC			Lancer (Uber Rare Cat)	UR
+367	Rider	Rider CC			Rider (Uber Rare Cat)	UR
+368	Gilgamesh	Gilgamesh CC			Gilgamesh (Uber Rare Cat)	UR
+369	Saber the Cat	Heroic Spirit Saber Cat	Saber Alter Cat		Saber the Cat (Special Cat)	EX
+370	Sakura the Cat	Apron Sakura Cat	Dreaming Sakura Cat		Sakura the Cat (Rare Cat)	RR
+371	Rin the Cat	Mage Rin Cat			Rin the Cat (Rare Cat)	RR
+372	Illya the Cat	Snow Faerie Illya			Illya the Cat (Rare Cat)	RR
+373	Li'l Shirou	Li'l Shirou CC			Li'l Shirou (Rare Cat)	RR
+374	Li'l Sakura	Li'l Sakura CC			Li'l Sakura (Special Cat)	EX
+375	Coin Cat	Macho Coin Cat			Coin Cat (Special Cat)	EX
+376	Rover Cat	Rover Cat Mk II	Catellite		Rover Cat (Rare Cat)	RR
+377	Fencer Cat	Kendo Cat	The Kitty of Liberty		Fencer Cat (Super Rare Cat)	SR
+378	Dark Mitama	Gothic Mitama			Dark Mitama (Uber Rare Cat)	UR
+379	Volley Cat	Ballet Cat	Curry Cat		Volley Cat (Rare Cat)	RR
+380	D'artanyan	Meow-sketeer			D'artanyan (Uber Rare Cat)	UR
+381	Farmer Cat	Harvest Cat			Farmer Cat (Special Cat)	EX
+382	Glass Cat	Macho Glass Cat	Macho Crystal Cat		Glass Cat (Rare Cat)	RR
+383	Masked Yulala	Mystic Yulala	Spiritual Yulala		Masked Yulala (Special Cat)	EX
+384	Satori Hikami & Cat	Satori Hikami & Cat CC			Satori Hikami & Cat (Special Cat)	EX
+385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC		Akio Yabe (Rare Cat)	RR
+386	Sairi Nijitani	Sairi Nijitani CC			Sairi Nijitani (Rare Cat)	RR
+387	Misaki Konno	Misaki Konno CC			Misaki Konno (Rare Cat)	RR
+388	Ren Katagiri	Ren Katagiri CC			Ren Katagiri (Rare Cat)	RR
+389	Karin Nekozuka	Karin Nekozuka CC			Karin Nekozuka (Rare Cat)	RR
+390	Aoi Hayakawa	Aoi Hayakawa CC	Baseball Mask α		Aoi Hayakawa (Super Rare Cat)	SR
+391	Mizuki Tachibana	Mizuki Tachibana CC	Baseball Mask β		Mizuki Tachibana (Super Rare Cat)	SR
+392	Hijiri Rokudo	Hijiri Rokudo CC	Baseball Mask γ		Hijiri Rokudo (Super Rare Cat)	SR
+393	Saki Nijima	Saki Nijima CC	Samba Saki CC		Saki Nijima (Uber Rare Cat)	UR
+394	Subaru Hoshi	Subaru Hoshi CC	Dark Subaru CC		Subaru Hoshi (Uber Rare Cat)	UR
+395	Miyabi Oyama	Miyabi Oyama CC	Baseball Mask δ		Miyabi Oyama (Uber Rare Cat)	UR
+396	Ganglion	Ganglion the Ancient	Ganglion the Unleashed		Ganglion (Uber Rare Cat)	UR
+397	Sakura Sonic	Afterschool Sakura	Sacred Blade Sakura	Sacred Blade Sakura Z	Sakura Sonic (Uber Rare Cat)	UR
+398	Honeyto-kun	Honeyto-kun & Cat			Honeyto-kun (Special Cat)	EX
+399	Mentori	Mentori CC			Mentori (Rare Cat)	RR
+400	Imoto	Imoto CC			Imoto (Special Cat)	EX
+401	Voli	Volta	Gigavolta		Voli (Uber Rare Cat)	UR
+402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black		Shinji & Cat (Rare Cat)	RR
+403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats			Gendo & Fuyutsuki Cats (Special Cat)	EX
+404	Giraffe Unit-01	Giraffe Unit-02			Giraffe Unit-01 (Rare Cat)	RR
+405	Kaworu & Cat	Plug Suit Kaworu	Moon Kaworu		Kaworu & Cat (Special Cat)	EX
+406	Rei Cat	Ayanami Cat (TBC)			Rei Cat (Rare Cat)	RR
+407	Asuka Cat	Apron Asuka			Asuka Cat (Rare Cat)	RR
+408	Mari Cat	Special Ops Mari			Mari Cat (Rare Cat)	RR
+409	Rei Ayanami	Plug Suit Rei	Reunion Li'l Rei		Rei Ayanami (Super Rare Cat)	SR
+410	Asuka Langley	Plug Suit Asuka	Eyepatch Li'l Asuka		Asuka Langley (Super Rare Cat)	SR
+411	Mari Illustrious	Plug Suit Mari			Mari Illustrious (Super Rare Cat)	SR
+412	Eva Unit-00	Eva Unit-00 & Cat			Eva Unit-00 (Uber Rare Cat)	UR
+413	Eva Unit-01	Eva Unit-01 & Cat	Determined Unit-01 & Cat		Eva Unit-01 (Uber Rare Cat)	UR
+414	Eva Unit-02	Eva Unit-02 & Cat	Unit-02, Code 777		Eva Unit-02 (Uber Rare Cat)	UR
+415	Shinji Cat	Toji & Kensuke Cats			Shinji Cat (Uber Rare Cat)	UR
+416	Moon Operators	NERV Moon			Moon Operators (Uber Rare Cat)	UR
+417	Mighty Thermae D-Lux	Subterra Guardians	Subterra Sentinels		Mighty Thermae D-Lux (Uber Rare Cat)	UR
+418	Crazed Moneko	Corrupted Moneko			Crazed Moneko (Special Cat)	EX
+419	Pokota	Pokota CC			Pokota (Rare Cat)	RR
+420	Ovis	Ovis CC			Ovis (Rare Cat)	RR
+421	Coco	Coco CC			Coco (Rare Cat)	RR
+422	Moe Uzumasa & Cat	Moe Uzumasa & Cat CC			Moe Uzumasa & Cat (Rare Cat)	RR
+423	Saki Matsuga & Cat	Saki Matsuga & Cat CC			Saki Matsuga & Cat (Rare Cat)	RR
+424	Misa Ono & Cat	Misa Ono & Cat CC			Misa Ono & Cat (Rare Cat)	RR
+425	Rei Uzumasa & Cat	Rei Uzumasa & Cat CC			Rei Uzumasa & Cat (Special Cat)	EX
+426	Mecha-Bun	Mecha-Bun Mk II	Ultimate Mecha-Bun		Mecha-Bun (Special Cat)	EX
+427	Cat Clan Heroes	Cat Guild Heroes	Cat Quest Heroes		Cat Clan Heroes (Uber Rare Cat)	UR
+428	Souma Cat	Stylish Souma Cat			Souma Cat (Rare Cat)	RR
+429	Otaku Geek Cat	Hacker Geek Cat			Otaku Geek Cat (Super Rare Cat)	SR
+430	Gude-Cat Machine	Gude-Cat Machine - Egg			Gude-Cat Machine (Uber Rare Cat)	UR
+431	Detective Vigler	Inspector Gabriel	Section Chief Gravicci	Arcane Commissioner Gravicci	Detective Vigler (Uber Rare Cat)	UR
+432	Betakkuma	Black Betakkuma			Betakkuma (Rare Cat)	RR
+433	Nekokkuma	Killer Nekokkuma			Nekokkuma (Special Cat)	EX
+434	White Swordsman Cat	Black Swordsman Cat			White Swordsman Cat (Special Cat)	EX
+435	Li'l Valkyrie	Wind Dancer Valkyrie			Li'l Valkyrie (Uber Rare Cat)	UR
+436	Nobiluga	Nobilan Pasalan	Mystican Pasalan		Nobiluga (Uber Rare Cat)	UR
+437	Cat God the Great	Cat God the Awesome	Cat God the Golden		Cat God the Great (Special Cat)	EX
+438	Waverider Kuu	Waverider Kuu, type γ			Waverider Kuu (Uber Rare Cat)	UR
+439	Empress Chronos	Chronos the Infinite	Almighty Chronos		Empress Chronos (Uber Rare Cat)	UR
+440	Bebe	Nagisa & Cat	Law of Cycles Nagisa		Bebe (Uber Rare Cat)	UR
+441	D'arktanyan	Valiant D'arktanyan			D'arktanyan (Uber Rare Cat)	UR
+442	Lone Cat and Kitten	Vendor Cat and Kitten	Tourist Cat		Lone Cat and Kitten (Rare Cat)	RR
+443	Driller Cat	Power Driller Cat	Neo Driller Cat		Driller Cat (Super Rare Cat)	SR
+444	Piledriver Cat	Power Piledriver Cat	Neo Piledriver Cat		Piledriver Cat (Super Rare Cat)	SR
+445	Cutter Cat	Power Cutter Cat	Neo Cutter Cat		Cutter Cat (Super Rare Cat)	SR
+446	Backhoe Cat	Power Backhoe Cat	Neo Backhoe Cat		Backhoe Cat (Super Rare Cat)	SR
+447	Miter Saw Cat	Power Saw Cat	Neo Saw Cat		Miter Saw Cat (Super Rare Cat)	SR
+448	Musashi Miyamoto	Wargod Miyamoto	Immortal Miyamoto		Musashi Miyamoto (Legend Rare Cat)	LR
+449	Headmistress Jeanne	Headmistress Jeanne ψ			Headmistress Jeanne (Legend Rare Cat)	LR
+450	High Lord Babel	Babel the Darkflame	God-Emperor Babel		High Lord Babel (Legend Rare Cat)	LR
+451	Ushiwakamaru	Colossal Benkei			Ushiwakamaru (Legend Rare Cat)	LR
+452	Primordial Cat	Modern Cat	Future Cat		Primordial Cat (Rare Cat)	RR
+453	Kitarou	GeGeGe no Kitarou			Kitarou (Special Cat)	EX
+454	Medama-Oyaji	Bathing Oyaji			Medama-Oyaji (Special Cat)	EX
+455	Wonder MOMOCO	Cutie MOMOCO			Wonder MOMOCO (Legend Rare Cat)	LR
+456	Sakura Matou	Sakura Matou CC	Dark Sakura CC		Sakura Matou (Uber Rare Cat)	UR
+457	Shirou the Cat	Novice Mage Shirou Cat			Shirou the Cat (Special Cat)	EX
+458	Archer the Cat	Heroic Spirit Archer Cat			Archer the Cat (Rare Cat)	RR
+459	Rider the Cat	Heroic Spirit Rider Cat			Rider the Cat (Rare Cat)	RR
+460	Kotomine & Gilgamesh Cats	Gilgamesh & Kotomine Cats			Kotomine & Gilgamesh Cats (Super Rare Cat)	SR
+461	Legeluga	Legelan Pasalan			Legeluga (Legend Rare Cat)	LR
+462	Filibuster Cat X	Filibuster Cat Y	Metafilibuster		Filibuster Cat X (Special Cat)	EX
+463	Mighty Kristul Muu	Doom Engine Pandora			Mighty Kristul Muu (Legend Rare Cat)	LR
+464	Dogumaru	Doguemon	Reborn Warrior Doguemon		Dogumaru (Special Cat)	EX
+465	Maji Cat & Cat Tour Group	Maji Cat & Cat Tour Taiwan			Maji Cat & Cat Tour Group (Rare Cat)	RR
+466	Black Zeus	Dark Lord Zeus			Black Zeus (Legend Rare Cat)	LR
+467	Super Zeus	All-Powerful Super Zeus	Super S-Zeus		Super Zeus (Uber Rare Cat)	UR
+468	Holy Phoenix	Holy Warrior Phoenix	Head Rococo		Holy Phoenix (Uber Rare Cat)	UR
+469	Super Devil	Imposter Super Devil	Super D-Devil		Super Devil (Uber Rare Cat)	UR
+470	Satanmaria	Wondermaria			Satanmaria (Uber Rare Cat)	UR
+471	Heracrist	Perfect Heracrist	Dark Heracrist		Heracrist (Uber Rare Cat)	UR
+472	Fiendish Nero	Beastly Nero	Huge Nero		Fiendish Nero (Super Rare Cat)	SR
+473	Prince Yamato	Holy Yamato	Rampaging Yamato		Prince Yamato (Rare Cat)	RR
+474	Rosary Angel	Cross Angel	Strike Angel		Rosary Angel (Special Cat)	EX
+475	Wakamiko Cat	Warrior King Cat			Wakamiko Cat (Special Cat)	EX
+476	Cat Devil	Infernal Cat			Cat Devil (Special Cat)	EX
+477	Nekonosuke	Old Guardian Cat			Nekonosuke (Special Cat)	EX
+478	Lumina	Luminalia			Lumina (Legend Rare Cat)	LR
+479	Gummy Cat	Lucky Cat	Gummy Cat Soda		Gummy Cat (Special Cat)	EX
+480	Neko-Musume	Cat Neko-Musume			Neko-Musume (Rare Cat)	RR
+481	Doktor Heaven	Professor Abyss			Doktor Heaven (Legend Rare Cat)	LR
+482	Benevolent Souma	Souma & Cat	Cat-Eared Souma		Benevolent Souma (Uber Rare Cat)	UR
+483	Kano & Souma	Kano & Souma & Cat			Kano & Souma (Rare Cat)	RR
+484	Li'l Valkyrie Dark	Dark Rider Valkyrie			Li'l Valkyrie Dark (Uber Rare Cat)	UR
+485	Calette	Calette CC			Calette (Uber Rare Cat)	UR
+486	Hina	Swordswoman Hina			Hina (Super Rare Cat)	SR
+487	Eva Unit-08	Eva Unit-08 & Cat			Eva Unit-08 (Uber Rare Cat)	UR
+488	AAA Wunder	NNN Wunder	Vanished NNN Wunder		AAA Wunder (Uber Rare Cat)	UR
+489	Misato Katsuragi	Captain Misato			Misato Katsuragi (Super Rare Cat)	SR
+490	Ritsuko Akagi	First Officer Ritsuko			Ritsuko Akagi (Super Rare Cat)	SR
+491	Rei Ayanami (???)	Awakened Ayanami			Rei Ayanami (???) (Super Rare Cat)	SR
+492	HAPPI	HAPPI & Maji Cat	HAPPI & Maji Cat & Cat		HAPPI (Rare Cat)	RR
+493	Gaia the Creator	Gaia the Supreme			Gaia the Creator (Legend Rare Cat)	LR
+494	Seabreeze Coppermine	Seabreeze Coppermine, type κ			Seabreeze Coppermine (Uber Rare Cat)	UR
+495	Matador Cat	Flamenco Cat	Bellydance Cat		Matador Cat (Rare Cat)	RR
+496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime		Narita Kaihime (Uber Rare Cat)	UR
+497	Shakurel Cat	Shakurel Macho Cat			Shakurel Cat (Special Cat)	EX
+498	Shakurel Lion	Shakurel Lion CC			Shakurel Lion (Special Cat)	EX
+499	Shakurel Tiger	Shakurel Tiger CC			Shakurel Tiger (Special Cat)	EX
+500	Shakurel Panda	Shakurel Panda CC			Shakurel Panda (Special Cat)	EX
+501	Cat Bros R	Baka Cat Bros			Cat Bros (Rare Cat)	RR
+502	Myrcia	Myrcia, type ξ	Divine Myrcia		Myrcia (Uber Rare Cat)	UR
+503	2D Cat	3D Cat			2D Cat (Rare Cat)	RR
+504	Fatherly Cat (Shopkeeper)	Fatherly Cat (Active Service)			Fatherly Cat (Shopkeeper) (Special Cat)	EX
+505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios		Relentless Gladios (Uber Rare Cat)	UR
+506	Eyewaltz	Eyewaltz CC	Nameless Eyewaltz CC		Eyewaltz (Uber Rare Cat)	UR
+507	Mightycat	Supercat			Mightycat (Rare Cat)	RR
+508	Ryu Cat	Ryu Cat CC			Ryu Cat (Rare Cat)	RR
+509	Chun-Li Cat	Chun-Li Cat CC			Chun-Li Cat (Special Cat)	EX
+510	Akuma	Akuma CC			Akuma (Legend Rare Cat)	LR
+511	Ryu	Ryu CC	Kage		Ryu (Uber Rare Cat)	UR
+512	Chun-Li	Chun-Li CC			Chun-Li (Uber Rare Cat)	UR
+513	Guile	Guile CC			Guile (Uber Rare Cat)	UR
+514	Zangief	Zangief CC			Zangief (Uber Rare Cat)	UR
+515	Blanka	Blanka CC			Blanka (Uber Rare Cat)	UR
+516	Dhalsim	Dhalsim CC			Dhalsim (Uber Rare Cat)	UR
+517	Ken	Ken CC			Ken (Uber Rare Cat)	UR
+518	Akuma Giraffe	Akuma Lion			Akuma Giraffe (Rare Cat)	RR
+519	Lasvoss	Ultimate Lasvoss	Lasvoss Reborn		Lasvoss (Uber Rare Cat)	UR
+520	Good-Luck Ebisu	Bad-Luck Ebisu			Good-Luck Ebisu (Super Rare Cat)	SR
+521	Medusa Cat	Twintail Medusa Cat	Naga Cat		Medusa Cat (Rare Cat)	RR
+522	Nymph Cat	Medalist Cat	Fiend Cat		Nymph Cat (Super Rare Cat)	SR
+523	Wushu Cat	Sifu Cat	Shigong Cat		Wushu Cat (Rare Cat)	RR
+524	Sorakara	Sorakara & Cat			Sorakara (Rare Cat)	RR
+525	Kintaro	Kinrangers RoboForce	Kinrangers GigaForce		Kintaro (Uber Rare Cat)	UR
+526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ			Snow Angel Twinstars (Uber Rare Cat)	UR
+527	Slime Cat	Jellycat	Jelly Dumpling Cat		Slime Cat (Rare Cat)	RR
+528	Cossack Cat	Vodka Cat	Royal Guard Cat		Cossack Cat (Rare Cat)	RR
+529	Kasli the Scourge	Ritual Saint Kasli			Kasli the Scourge (Uber Rare Cat)	UR
+530	Herme	Herme CC			Herme (Uber Rare Cat)	UR
+531	Teacher BearCat	Assassin BearCat	Cadaver BearCat		Teacher BearCat (Rare Cat)	RR
+532	Urs & Fenrir	Urs & Minka	Awakened Urs		Urs & Fenrir (Special Cat)	EX
+533	Sharpshooter Saki	Nighthunter Saki	Bad Blaster Saki		Sharpshooter Saki (Uber Rare Cat)	UR
+534	Hades the Punisher	Hades the Deathdealer	Almighty Hades		Hades the Punisher (Uber Rare Cat)	UR
+535	Hatsune Miku	Hatsune Miku CC			Hatsune Miku (Uber Rare Cat)	UR
+536	Sakura Miku	Sakura Miku CC			Sakura Miku (Uber Rare Cat)	UR
+537	Kagamine Rin & Len	Kagamine Rin & Len CC			Kagamine Rin & Len (Uber Rare Cat)	UR
+538	Miku Cat	Miku Cat CC			Miku Cat (Rare Cat)	RR
+539	Rugby Cat	Quarterback Cat	Gridiron Cat		Rugby Cat (Rare Cat)	RR
+540	U.F.O. Cat	Yakisoba U.F.O. Cat			U.F.O. Cat (Rare Cat)	RR
+541	Yakisoba Cat	Splendid!Thick!Big!Cat			Yakisoba Cat (Special Cat)	EX
+542	Cat Boy	Cat Student			Cat Boy (Special Cat)	EX
+543	Kasli the Bane	Kasli, Daughter of Chaos			Kasli the Bane (Uber Rare Cat)	UR
+544	Kyosaka Nanaho	True Kyosaka Nanaho			Kyosaka Nanaho (Legend Rare Cat)	LR
+545	Phantom Cat	Miasma Cat	Bubble Cat		Phantom Cat (Rare Cat)	RR
+546	Papaluga	Papalan Pasalan	Sukelan Kakulan		Papaluga (Uber Rare Cat)	UR
+547	Night Oracle Rei	Heavenly Herald Rei			Night Oracle Rei (Uber Rare Cat)	UR
+548	The 4th Angel	4th Angel Cat			The 4th Angel (Uber Rare Cat)	UR
+549	The 6th Angel	6th Angel Cat			The 6th Angel (Uber Rare Cat)	UR
+550	The 10th Angel	10th Angel Cat			The 10th Angel (Uber Rare Cat)	UR
+551	The 9th Angel	9th Angel Cat			The 9th Angel (Uber Rare Cat)	UR
+552	Kaworu Cat	Moon Kaworu Cat			Kaworu Cat (Rare Cat)	RR
+553	Bakery Cat	Boomerang Cat	Fried Chicken Cat		Bakery Cat (Rare Cat)	RR
+554	Master Uril	Mystic Uril	Esoteric Uril		Master Uril (Special Cat)	EX
+555	Shaman Khan	All-Loving Shaman Khan			Shaman Khan (Uber Rare Cat)	UR
+556	Holy Knight Alibaba	Holy King Alibaba	Ghost Alibaba		Holy Knight Alibaba (Super Rare Cat)	SR
+557	Heavenly Jack	Heavenly Lord Jack			Heavenly Jack (Special Cat)	EX
+558	Gacha Cat	Lucky Gacha Cat			Gacha Cat (Special Cat)	EX
+559	Hell Warden Emma	Hell Sentinel Emma	Hell Commissioner Emma		Hell Warden Emma (Uber Rare Cat)	UR
+560	Megurine Luka	Megurine Luka CC			Megurine Luka (Uber Rare Cat)	UR
+561	MEIKO & Cat	MEIKO & Cat CC			MEIKO & Cat (Super Rare Cat)	SR
+562	Luka Cat	Luka Cat CC			Luka Cat (Rare Cat)	RR
+563	Squirtgun Saki	Aquabuster Saki	Aquablaster Saki		Squirtgun Saki (Uber Rare Cat)	UR
+564	Summerluga	Bikinilan Pasalan	Fabulous Pasalan		Summerluga (Uber Rare Cat)	UR
+565	Suntan Cat	Macho Suntan Cat	Permed Suntan Cat		Suntan Cat (Super Rare Cat)	SR
+566	Lifeguard Cats	Sweet Bro Cats	Gelato Bro Cats		Lifeguard Cats (Super Rare Cat)	SR
+567	Li'l Clops Cat Egg	Li'l Clops Cat	Lightning Li'l Clops Cat		Li'l Clops Cat Egg (Special Cat)	EX
+568	Idi:N	Idi:N2	Idi:NX		Idi:N (Special Cat)	EX
+569	Gravi	Gravolo	Gravolodon		Gravi (Uber Rare Cat)	UR
+570	Skull Rider Vars	Nightmare King Vars	Halloween Knight Vars		Skull Rider Vars (Uber Rare Cat)	UR
+571	E. Honda	E. Honda CC			E. Honda (Uber Rare Cat)	UR
+572	Balrog	Balrog CC			Balrog (Uber Rare Cat)	UR
+573	Vega	Vega CC			Vega (Uber Rare Cat)	UR
+574	Sagat	Sagat CC			Sagat (Uber Rare Cat)	UR
+575	M. Bison	M. Bison CC			M. Bison (Uber Rare Cat)	UR
+576	C. Honda	C. Honda CC			C. Honda (Super Rare Cat)	SR
+577	Balrog Cat	Balrog Cat CC			Balrog Cat (Rare Cat)	RR
+578	Vega Cat	Vega Cat CC			Vega Cat (Rare Cat)	RR
+579	Sagat Cat	Sagat Cat CC			Sagat Cat (Rare Cat)	RR
+580	M. Bison Cat	M. Bison Cat CC			M. Bison Cat (Rare Cat)	RR
+581	Stone Cat	Boulder Cat			Stone Cat (Rare Cat)	RR
+582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka			Hatsune Miku: MM2020 Osaka (Uber Rare Cat)	UR
+583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo			Hatsune Miku: MM2020 Tokyo (Uber Rare Cat)	UR
+584	Keiji Claus	Maeda Christmas	Maeda Christmas DX		Keiji Claus (Uber Rare Cat)	UR
+585	Baby Garu	Mighty Aegis Garu			Baby Garu (Uber Rare Cat)	UR
+586	Emperor Cat	Tyrant Cat			Emperor Cat (Legend Rare Cat)	LR
+587	Sweet Aphrodite	Chocoladite			Sweet Aphrodite (Uber Rare Cat)	UR
+588	First-Love Myrcia	First-Love Myrcia ξ			First-Love Myrcia (Uber Rare Cat)	UR
+589	Valentine's Neneko	Sweetheart Neneko	True Love Neneko		Valentine's Neneko (Super Rare Cat)	SR
+590	Snow Miku 2021	Snow Miku CC 2021			Snow Miku 2021 (Uber Rare Cat)	UR
+591	KAITO & Cat	KAITO & Cat CC			KAITO & Cat (Super Rare Cat)	SR
+592	Neko Rin	Neko Rin CC			Neko Rin (Rare Cat)	RR
+593	Neko Len	Neko Len CC			Neko Len (Rare Cat)	RR
+594	Mighty Aethur Ltd.	Atlantis Logistix	Ultra Atlantis Logistix		Mighty Aethur Ltd. (Uber Rare Cat)	UR
+595	Blooming Kamukura	Everbloom Kamukura	Everbloom Lord Kamukura		Blooming Kamukura (Uber Rare Cat)	UR
+596	Ranma Saotome (M)	Ranma Saotome (F)			Ranma Saotome (M) (Uber Rare Cat)	UR
+597	Akane Tendo	Akane Tendo (Gi)			Akane Tendo (Uber Rare Cat)	UR
+598	Ryoga Hibiki (Pig)	Ryoga Hibiki			Ryoga Hibiki (Pig) (Uber Rare Cat)	UR
+599	Shampoo (Cat)	Shampoo			Shampoo (Cat) (Uber Rare Cat)	UR
+600	Mousse (Duck)	Mousse			Mousse (Duck) (Uber Rare Cat)	UR
+601	Happosai	Happosai (Lewd)			Happosai (Super Rare Cat)	SR
+602	Ukyo Kuonji (GR)	Ukyo Kuonji			Ukyo Kuonji (GR) (Super Rare Cat)	SR
+603	Tatewaki Kuno (Gi)	Tatewaki Kuno			Tatewaki Kuno (Gi) (Super Rare Cat)	SR
+604	Ranma Cat (M)	Ranma Cat (F)			Ranma Cat (M) (Rare Cat)	RR
+605	Akane Cat	Akane Cat (Gi)			Akane Cat (Rare Cat)	RR
+606	Panda Cat	Genma Cat			Panda Cat (Special Cat)	EX
+607	Adventurer Kanna	Swashbuckler Kanna	Fabled Adventure Girl Kanna		Adventurer Kanna (Uber Rare Cat)	UR
+608	Wafer Cat	Wafer Cat XL			Wafer Cat (Special Cat)	EX
+609	Dark Aegis Garu	Dark Beastlord Garu			Dark Aegis Garu (Uber Rare Cat)	UR
+610	Gold Brick Cat	King Ingot Cat	King Nekokhamen		Gold Brick Cat (Special Cat)	EX
+611	Godzilla Cat	Shin Godzilla Cat			Godzilla Cat (Rare Cat)	RR
+612	Princess Cat	Empress Cat			Princess Cat (Uber Rare Cat)	UR
+613	Elder Mask Doron	Cat Mask Doron	Awakened Doron		Elder Mask Doron (Special Cat)	EX
+614	Kaguya of the Coast	The Southern Sun	The Southern Sunflare		Kaguya of the Coast (Uber Rare Cat)	UR
+615	Kabuto Cat	Golden Kabuto Cat			Kabuto Cat (Special Cat)	EX
+616	Kuwagata Cat	King Kuwagata Cat			Kuwagata Cat (Special Cat)	EX
+617	Summoner Satoru	Dark Summoner Satoru	Devil Hunter Satoru		Summoner Satoru (Uber Rare Cat)	UR
+618	Shiro Amakusa	Wargod Amakusa	Immortal Amakusa		Shiro Amakusa (Uber Rare Cat)	UR
+619	Lilin	Lilin π	Divine Lilin π		Lilin (Uber Rare Cat)	UR
+620	Hevijak the Wicked	Wicked King Hevijak	God-Emperor Hevijak		Hevijak the Wicked (Uber Rare Cat)	UR
+621	Aku Researcher	Evil Aku Researcher	Cat Researcher		Aku Researcher (Rare Cat)	RR
+622	Jagando Jr.	Lord of Ruin Jagando Jr.			Jagando Jr. (Special Cat)	EX
+623	Pied Piper Cat	Komuso Cat	Brass Cat		Pied Piper Cat (Rare Cat)	RR
+624	Kunio-kun	Dodgeball Kunio-kun			Kunio-kun (Uber Rare Cat)	UR
+625	Furiluga	Furilan Pasalan	Ragelan Pasalan		Furiluga (Uber Rare Cat)	UR
+626	Cat Giraffe Modoki	Suruma Cat Giraffe Modoki			Cat Giraffe Modoki (Special Cat)	EX
+627	Catnip Tricky	Tenma Catnip Tricky			Catnip Tricky (Special Cat)	EX
+628	Catnip Dragon	Famous Catnip Dragon			Catnip Dragon (Special Cat)	EX
+629	Brainwashed Cat	Brainwashed Macho Cat	Brainwashed Mohawk Cat		Brainwashed Cat (Super Rare Cat)	SR
+630	Calligraphy Cat	Tea Master Cat			Calligraphy Cat (Rare Cat)	RR
+631	Yamii	Yaminoir	Yaminora		Yamii (Uber Rare Cat)	UR
+632	Mighty Deth-Troy-R	Siege Walker Diabolosa	Obliterator Diabolosa		Mighty Deth-Troy-R (Uber Rare Cat)	UR
+633	Shitakiri Sparrow	Chunchun Haunters	Grand Chunchun Haunters		Shitakiri Sparrow (Uber Rare Cat)	UR
+634	White Knight Cyclops	Black Knight Kyklops	Demon Knight Kyklops		White Knight Cyclops (Uber Rare Cat)	UR
+635	Million-Dollar Cat	Hundred-Million-Dollar Cat			Million-Dollar Cat (Special Cat)	EX
+636	Brainwashed Tank Cat	Brainwashed Wall Cat	Brainwashed Eraser Cat		Brainwashed Tank Cat (Super Rare Cat)	SR
+637	Sora & Cat	Sora & Cat CC			Sora & Cat (Special Cat)	EX
+638	Nana & Cat	Nana & Cat CC			Nana & Cat (Rare Cat)	RR
+639	Emilia & Cat	Emilia & Cat CC			Emilia & Cat (Rare Cat)	RR
+640	Ann & Cat	Ann & Cat CC			Ann & Cat (Special Cat)	EX
+641	Iz the Dancer	Iz the Alluring Dancer			Iz the Dancer (Uber Rare Cat)	UR
+642	Lucifer the Fallen	Grand Lucifer	Almighty Lucifer		Lucifer the Fallen (Uber Rare Cat)	UR
+643	Superfeline	Superfeline II	True Superfeline		Superfeline (Normal Cat)	N
+644	Sweet Love Mekako	Bittersweet Mekako	Minty Love Mekako		Sweet Love Mekako (Uber Rare Cat)	UR
+645	Brainwashed Axe Cat	Brainwashed Brave Cat	Brainwashed Dark Cat		Brainwashed Axe Cat (Super Rare Cat)	SR
+646	Firecracker Cat	Macho Firecracker Cat			Firecracker Cat (Special Cat)	EX
+647	Huntress Terun	Huntress Terun ζ	Divine Huntress Terun ζ		Huntress Terun (Uber Rare Cat)	UR
+648	Lovestruck Lesser Demon	Lovestruck Greater Demon			Lovestruck Lesser Demon (Uber Rare Cat)	UR
+649	Hattori Hanzo	Wargod Hanzo	Immortal Hanzo		Hattori Hanzo (Uber Rare Cat)	UR
+650	Secret Crush Cat	Girlfriend Cat			Secret Crush Cat (Special Cat)	EX
+651	Tomboy Lion Cat	Iron-Masked Lion Cat			Tomboy Lion Cat (Special Cat)	EX
+652	Chalkboard Eraser Cat	Chalkboard Punk Cat			Chalkboard Eraser Cat (Special Cat)	EX
+653	Elder Beast Naala	Storm Beast Naala	Awakened Naala		Elder Beast Naala (Special Cat)	EX
+654	Brainwashed Gross Cat	Brainwashed Sexy Legs Cat	Brainwashed Macho Legs Cat		Brainwashed Gross Cat (Super Rare Cat)	SR
+655	Bliza	Blizana	Blizarena		Bliza (Uber Rare Cat)	UR
+656	Ancient Egg: N001	Mystic Egg: N001	Haniwa Cat		Ancient Egg: N001 (Special Cat)	EX
+657	Iz the Dancer of Grief	Iz the Lady of Mourning			Iz the Dancer of Grief (Uber Rare Cat)	UR
+658	Ancient Egg: N101	Cinnabar Egg: N101	Courier Cat		Ancient Egg: N101 (Rare Cat)	RR
+659	Ancient Egg: N102	Teal Egg: N102	Catarzan		Ancient Egg: N102 (Rare Cat)	RR
+660	Sea Serpent Daliasan	Sea King Daliasan	God-Emperor Daliasan		Sea Serpent Daliasan (Uber Rare Cat)	UR
+661	Chronos the Bride	Wedding Chronos			Chronos the Bride (Uber Rare Cat)	UR
+662	Brainwashed Cow Cat	Brainwashed Giraffe Cat	Brainwashed Lion Cat		Brainwashed Cow Cat (Super Rare Cat)	SR
+663	Ancient Egg: N103	Black Egg: N103	Gas Mask Cat		Ancient Egg: N103 (Rare Cat)	RR
+664	Ancient Egg: N104	Green Egg: N104	Surgeon Cat		Ancient Egg: N104 (Rare Cat)	RR
+665	Ancient Egg: N201	Dark Egg: N201	Exorcist Cat		Ancient Egg: N201 (Special Cat)	EX
+666	Night Beach Lilin	Night Beach Lilinπ			Night Beach Lilin (Uber Rare Cat)	UR
+667	Brainwashed Bird Cat	Brainwashed UFO Cat	Brainwashed Flying Cat		Brainwashed Bird Cat (Super Rare Cat)	SR
+668	Cat Tengu	Grand Yokai Tengu	Immortal Master Tengu		Cat Tengu (Uber Rare Cat)	UR
+669	Ancient Egg: N003	Evil Egg: N003	Cat Cactus		Ancient Egg: N003 (Special Cat)	EX
+670	Ancient Egg: N202	Cinnabar Egg: N202	Armored Firefly Cat		Ancient Egg: N202 (Special Cat)	EX
+671	Ranma Saotome (Leotard)	Ranma Saotome (Cheer)			Ranma Saotome (Leotard) (Uber Rare Cat)	UR
+672	Genma Saotome (Panda)	Genma Saotome			Genma Saotome (Panda) (Super Rare Cat)	SR
+673	Cheetah Cat				Cheetah Cat (Uber Rare Cat)	UR
+674	Mighty Carrowsell	Extraterrestrial Envanz	Extradimensional Envanz		Mighty Carrowsell (Uber Rare Cat)	UR
+675	Ancient Egg: N105	Teal Egg: N105	Racquet Cat		Ancient Egg: N105 (Rare Cat)	RR
+676	Ancient Egg: N106	Amber Egg: N106	Mushroom Cat		Ancient Egg: N106 (Rare Cat)	RR
+677	Osamu Mikumo & Cat	Osamu Mikumo & Cat CC			Osamu Mikumo & Cat (Rare Cat)	RR
+678	Yuma Kuga & Cat	Yuma Kuga & Cat CC			Yuma Kuga & Cat (Rare Cat)	RR
+679	Chika Amatori & Cat	Chika Amatori & Cat CC			Chika Amatori & Cat (Special Cat)	EX
+680	Sakura	Sakura CC			Sakura (Uber Rare Cat)	UR
+681	Luke	Luke CC			Luke (Uber Rare Cat)	UR
+682	Spectral Goth Vega	Illusory Guardian Vega	Lady of Deception Vega		Spectral Goth Vega (Uber Rare Cat)	UR
+683	Count Yukimura	Nosferatu Yukimura	Vampiric Yukimura		Count Yukimura (Uber Rare Cat)	UR
+684	Brainwashed Fish Cat	Brainwashed Whale Cat	Brainwashed Island Cat		Brainwashed Fish Cat (Super Rare Cat)	SR
+685	Ancient Egg: N004	Mystic Egg: N004	Supercar Cat		Ancient Egg: N004 (Special Cat)	EX
+686	Goddess of Light Sirius	Goddess of Sunrise Sirius			Goddess of Light Sirius (Uber Rare Cat)	UR
+687	Reindeer Terun	Reindeer Terunζ			Reindeer Terun (Uber Rare Cat)	UR
+688	Brainwashed Lizard Cat	Brainwashed Dragon Cat	Brainwashed King Dragon Cat		Brainwashed Lizard Cat (Super Rare Cat)	SR
+689	Meditation Cat	Paragon Cat			Meditation Cat (Special Cat)	EX
+690	Child of Destiny Phono	King of Destiny Phonoa			Child of Destiny Phono (Uber Rare Cat)	UR
+691	Ancient Egg: N000	Elder Egg: N000	Ape Lord Luza		Ancient Egg: N000 (Special Cat)	EX
+692	Issun Boshi	Oni Landshaker Kozuchimaru	Oni Battlepod Kozuchimaru		Issun Boshi (Uber Rare Cat)	UR
+693	White Butler Vigler	Black Butler Vigler			White Butler Vigler (Uber Rare Cat)	UR
+694	Brainwashed Titan Cat	Brainwashed Mythic Titan	Brainwashed Jamiera Cat		Brainwashed Titan Cat (Super Rare Cat)	SR
+695	Killer Tank Cat	True Killer Tank Cat			Killer Tank Cat (Rare Cat)	RR
+696	Class Rep Cat	Stealth Class Rep Cat			Class Rep Cat (Special Cat)	EX
+697	Ancient Egg: N107	Violet Egg: N107	Cat Chief		Ancient Egg: N107 (Rare Cat)	RR
+698	Thunder Jack	Bloody Jack	Lightning Jack		Thunder Jack (Uber Rare Cat)	UR
+699	Rabbit Satoru	Rabbit Champion Satoru			Rabbit Satoru (Uber Rare Cat)	UR
+700	Ancient Egg: N005	Mystic Egg: N005	Hitman Cat		Ancient Egg: N005 (Special Cat)	EX
+701	Kamen Rider Cat	Shin Kamen Rider Cat			Kamen Rider Cat (Rare Cat)	RR
+702	Cat Godzilla	Shin Cat Godzilla			Cat Godzilla (Rare Cat)	RR
+703	Evangelion Cat	Shin Evangelion Cat			Evangelion Cat (Rare Cat)	RR
+704	Ultraman Cat	Shin Ultraman Cat			Ultraman Cat (Rare Cat)	RR
+705	King of Doom Phono	King of Extinction Phono			King of Doom Phono (Uber Rare Cat)	UR
+706	Ancient Egg: N108	Teal Egg: N108	Soap Cat		Ancient Egg: N108 (Super Rare Cat)	SR
+707	Ancient Egg: N109	Dark Egg: N109	Barrel Cat		Ancient Egg: N109 (Rare Cat)	RR
+708	Jetpack Cat	Kinjirou Cat			Jetpack Cat (Rare Cat)	RR
+709	One-Eyed Asuka	Blue-Eyed Asuka			One-Eyed Asuka (Uber Rare Cat)	UR
+710	Eva Unit-13	Eva Unit-13 & Cat			Eva Unit-13 (Uber Rare Cat)	UR
+711	Betrothed Balaluga	Betrothed Pasalan			Betrothed Balaluga (Uber Rare Cat)	UR
+712	Kaoluga	Kaoluga Pasalan			Kaoluga (Uber Rare Cat)	UR
+713	Ancient Egg: N203	Violet Egg: N203	Clown Cat		Ancient Egg: N203 (Special Cat)	EX
+714	Coastal Explorer Kanna	Deep-Diver Kanna			Coastal Explorer Kanna (Uber Rare Cat)	UR
+715	Mighty Sphinx Korps	Attack Battalion Convoys	715-3		Mighty Sphinx Korps (Uber Rare Cat)	UR
+716	Ancient Egg: N111	Mystic Egg: N111	Cop Cat		Ancient Egg: N111 (Super Rare Cat)	SR
+717	Ancient Egg: N110	Amber Egg: N110	Farmboy Cat		Ancient Egg: N110 (Rare Cat)	RR
+718	Maize Cat	Cone Cat			Maize Cat (Rare Cat)	RR
+719	Tekachi	Tetsukachi			Tekachi (Uber Rare Cat)	UR
+720	Ancient Egg: N006	Devil Egg: N006	Fallen Bear Cat		Ancient Egg: N006 (Special Cat)	EX
+721	High School Kingpin Riki	Dodgeball Riki			High School Kingpin Riki (Uber Rare Cat)	UR
+722	Hatsune Miku XVI	Hatsune Miku XVI CC			Hatsune Miku XVI (Uber Rare Cat)	UR
+723	Lightmother Aset	Nefer Aset	Almighty Aset		Lightmother Aset (Uber Rare Cat)	UR
+724	Ancient Egg: N112	Mystic Egg: N112	Cat Egg Pod		Ancient Egg: N112 (Rare Cat)	RR
+725	Ninja Girl Tomoe	Gourmand Ninja Girl Tomoe			Ninja Girl Tomoe (Uber Rare Cat)	UR
+726	Medal King Cat	Great Medal King Cat			Medal King Cat (Special Cat)	EX
+727	SOL DAE ROKKER	SOL DAE ROKKER CC			SOL DAE ROKKER (Uber Rare Cat)	UR
+728	Master of Mind Soractes	Master of Mind Catcrates			Master of Mind Soractes (Special Cat)	EX
+729	Summon 1				Special Abilities#Conjure	EX
+730	Ancient Egg: N204	Cinnabar Egg: N204	Lion Dancer Cat		Ancient Egg: N204 (Special Cat)	EX
+731	Daybreaker Izanagi	Dawnbringer Izanagi			Daybreaker Izanagi (Legend Rare Cat)	LR
+732	Summon 2				Special Abilities#Conjure	LR
+733	Pegasa	Pegasa ν			Pegasa (Uber Rare Cat)	UR
+734	Summon 3				Special Abilities#Conjure	UR
+735	Principal Cat	Midlife Crisis Cat			Principal Cat (Special Cat)	EX
+736	Frozen Rose Cat	Arctic Bloom Cat			Frozen Rose Cat (Uber Rare Cat)	UR
+737	Floral Kalisa	Floral Kalisa, type X			Floral Kalisa (Uber Rare Cat)	UR
+738	Izanami of Dusk	Izanami of Eventide			Izanami of Dusk (Legend Rare Cat)	LR
+739	Summon 4				Special Abilities#Conjure	LR
+740	Trash Cat	Mimic Cat			Trash Cat (Special Cat)	EX
+741	Voluptuous Peony - Daji	Daji & Cat			Voluptuous Peony - Daji (Uber Rare Cat)	UR
+742	Mollyanna Cat	Mesmerizing Tune - Mollyanna			Mollyanna Cat (Rare Cat)	RR
+743	Madhead	Madhead Cat			Madhead (Rare Cat)	RR
+744	Felix the Cat Duke Cat	Mercenary Leader Felix Cat			Felix the Cat Duke Cat (Special Cat)	EX
+745	Dotty Cat	Birthday Dotty Cat			Dotty Cat (Special Cat)	EX
+746	Kenshin Himura	Kenshin Himura CC			Kenshin Himura (Uber Rare Cat)	UR
+747	Sanosuke Sagara	Sanosuke Sagara CC			Sanosuke Sagara (Uber Rare Cat)	UR
+748	Aoshi Shinomori	Aoshi Shinomori CC			Aoshi Shinomori (Uber Rare Cat)	UR
+749	Hajime Saito	Hajime Saito CC			Hajime Saito (Uber Rare Cat)	UR
+750	Li'l Kaoru	Li'l Kaoru CC			Li'l Kaoru (Super Rare Cat)	SR
+751	Li'l Yahiko	Li'l Yahiko CC			Li'l Yahiko (Super Rare Cat)	SR
+752	Kenshin Cat	Battosai Cat			Kenshin Cat (Rare Cat)	RR
+753	Kaoru Cat	Swordscat Kaoru			Kaoru Cat (Special Cat)	EX
+754	Akechi Mitsuhide	Wargod Mitsuhide			Akechi Mitsuhide (Uber Rare Cat)	UR
+755	Summon 5				Special Abilities#Conjure	UR
+756	Cake Machine	Wedding Cake Machine			Cake Machine (Uber Rare Cat)	UR
+757	Ancient Egg: N205	Violet Egg: N205	Bride Cat		Ancient Egg: N205 (Special Cat)	EX
+758	Trixi the Merc	Trixi the Revenant			Trixi the Merc (Uber Rare Cat)	UR
+759	Music Fest Thundia	Music Fest Thundia β			Music Fest Thundia (Uber Rare Cat)	UR
+760	Gunduros	Ballistic Dragon Gunduros			Gunduros (Uber Rare Cat)	UR
+761	Summon 6				Special Abilities#Conjure	UR
+762	Heavenly God Super Zeus	Giga Almighty God Super Zeus			Heavenly God Super Zeus (Uber Rare Cat)	UR
+763	Dynasaurus Cat	Mecha Dynasaurus Cat			Dynasaurus Cat (Uber Rare Cat)	UR
+764	Summon 7				Special Abilities#Conjure	UR
+765	Ancient Egg: N206	Cinnabar Egg: N206	Clam Cat		Ancient Egg: N206 (Special Cat)	EX
+766	Sardine	Sardine CC			Sardine (Special Cat)	EX
+767	Squid	Squid CC			Squid (Special Cat)	EX
+768	Taitenki	Taitenki CC			Taitenki (Uber Rare Cat)	UR
+769	Hanasaka Cat	Ravenous Cherry			Hanasaka Cat (Uber Rare Cat)	UR
+770	Summon 8				Special Abilities#Conjure	UR
+771	Master of Life Dr. Nova	Master of Life Catnova			Master of Life Dr. Nova (Special Cat)	EX
+772	Pumpkin Sodom	Sodom-o'-Lantern			Pumpkin Sodom (Uber Rare Cat)	UR
+773	Mummy Sumo	Mama Mummy Sumo			Mummy Sumo (Super Rare Cat)	SR
+774	Mech Patrol Axel	Steel Sergeant Axel			Mech Patrol Axel (Uber Rare Cat)	UR
+775	Summon 9				Special Abilities#Conjure	UR
+776	Lieutenant Cat	Commander Cat			Lieutenant Cat (Special Cat)	EX
+777	Winter General Kaihime	Winter Commander Kaihime			Winter General Kaihime (Uber Rare Cat)	UR
+778	Madoka Cat & Homura	Magical Cat☆ Magica			Madoka Cat & Homura (Uber Rare Cat)	UR
+779	Celestial Child Luna	Salvation's Daughter Lunacia			Celestial Child Luna (Uber Rare Cat)	UR
+780	Bowler Cat	Dodgeballer Cat			Bowler Cat (Rare Cat)	RR
+781	Mamoluga	Mamolan Pasalan			Mamoluga (Uber Rare Cat)	UR
+782	Summon 10				Special Abilities#Conjure	UR
+783	Koneko	Superstar Koneko			Koneko (Uber Rare Cat)	UR
+784	Choco Capsule	ChocoSurp Cat F			Choco Capsule (Special Cat)	EX
+785	Killer Gross Cat	True Killer Gross Cat			Killer Gross Cat (Rare Cat)	RR
+786	The Amazing Catman	Illusionist Catman			The Amazing Catman (Uber Rare Cat)	UR
+787	Netherworld Nymph Lunacia	Death's Daughter Lunacia			Netherworld Nymph Lunacia (Uber Rare Cat)	UR
+788	Stealth Cat	Surprise Stealth Cat			Stealth Cat (Special Cat)	EX
+789	Baki Hanma	Baki Hanma CC			Baki Hanma (Uber Rare Cat)	UR
+790	Retsu Kaioh	Retsu Kaioh CC			Retsu Kaioh (Uber Rare Cat)	UR
+791	Kaoru Hanayama	Kaoru Hanayama CC			Kaoru Hanayama (Uber Rare Cat)	UR
+792	Katsumi Orochi	Katsumi Orochi CC			Katsumi Orochi (Uber Rare Cat)	UR
+793	Jack Hammer	Jack Hammer CC			Jack Hammer (Uber Rare Cat)	UR
+794	Ogre Cat	Ogre Cat Face			Ogre Cat (Super Rare Cat)	SR
+795	Li'l Baki	Li'l Baki CC			Li'l Baki (Special Cat)	EX
+796	Baki Cat	Baki Cat CC			Baki Cat (Special Cat)	EX
+797	Kaioh Cat	Kaioh Cat CC			Kaioh Cat (Special Cat)	EX
+798	Doppo Cat	Doppo Cat CC			Doppo Cat (Special Cat)	EX
+799	Mighty Morta-Loncha	Grandiose Gunhauzer			Mighty Morta-Loncha (Uber Rare Cat)	UR
+800	Summon 11				Special Abilities#Conjure	UR
+801	Master of Logic Newton	Master of Logic Mewton			Master of Logic Newton (Special Cat)	EX
+802	Summon 12				Special Abilities#Conjure	EX
+803	Sonic	Sonic & Cat			Sonic (Uber Rare Cat)	UR
+804	Tails	Tails & Cat			Tails (Uber Rare Cat)	UR
+805	Knuckles	Knuckles & Cat			Knuckles (Uber Rare Cat)	UR
+806	Shadow	Shadow & Cat			Shadow (Uber Rare Cat)	UR
+807	Sonic Cat	Sonic Cat CC			Sonic Cat (Rare Cat)	RR
+808	Tails Cat	Tails Cat CC			Tails Cat (Special Cat)	EX
+809	Shadow Cat	Shadow Cat CC			Shadow Cat (Rare Cat)	RR
+810	Agent Stahl	Blade Master Stahl			Agent Stahl (Uber Rare Cat)	UR
+811	Victorious Skanda	Zeta Skanda			Victorious Skanda (Uber Rare Cat)	UR
+812	Summon 13				Special Abilities#Conjure	UR
+813	Tasmanian Giant Crab	Tasmanian Giant Crab CC			Tasmanian Giant Crab (Special Cat)	EX
+814	Mass Production Eva Unit	Mass Production Eva Cat Unit			Mass Production Eva Unit (Uber Rare Cat)	UR
+815	Boy of Moonlight Kaworu	Messenger of Moonset Kaworu			Boy of Moonlight Kaworu (Legend Rare Cat)	LR
+816	Summon 14				Special Abilities#Conjure	LR
+817	817-1	817-2			817 (Uber Rare Cat)	UR
+818	Summon 15				Special Abilities#Conjure	UR
+819	819-1	819-2			819 (Rare Cat)	RR
+820	820-1	820-2			820 (Uber Rare Cat)	UR
+821	Summon 16				Special Abilities#Conjure	UR
+822	822-1	822-2			822 (Special Cat)	EX
