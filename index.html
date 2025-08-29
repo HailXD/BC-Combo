@@ -112,6 +112,16 @@
             color: #e0e0e0;
         }
 
+        .hint {
+            background: rgba(139, 92, 246, 0.1);
+            border-left: 3px solid #8b5cf6;
+            padding: 10px 15px;
+            margin-top: 10px;
+            border-radius: 5px;
+            font-size: 0.9em;
+            color: #a0a0a0;
+        }
+
         .button-group {
             display: flex;
             gap: 10px;
@@ -244,6 +254,7 @@
         .result-stats {
             display: flex;
             gap: 12px;
+            flex-wrap: wrap;
         }
 
         .stat {
@@ -253,6 +264,11 @@
             font-size: 0.9em;
             color: #a0a0a0;
             border: 1px solid #3a3a4e;
+        }
+
+        .stat.effect-type {
+            border-color: #8b5cf6;
+            color: #8b5cf6;
         }
 
         .result-content {
@@ -294,6 +310,12 @@
         .combo-list li:hover {
             background: #2a2a3e;
             padding-left: 20px;
+        }
+
+        .combo-effect {
+            font-size: 0.85em;
+            color: #8b5cf6;
+            margin-left: 10px;
         }
 
         .cats-grid {
@@ -465,14 +487,15 @@
             <div id="mainControls" class="hidden">
                 <div class="controls">
                     <div class="control-group">
-                        <label for="effectType">Effect Type</label>
-                        <select id="effectType" required>
-                            <option value="">Select an effect type...</option>
+                        <label for="effectType">Effect Type (Optional)</label>
+                        <select id="effectType">
+                            <option value="">All Effect Types</option>
                         </select>
+                        <div class="hint">💡 Leave empty to find all combos (including mixed types) that reach the target strength</div>
                     </div>
 
                     <div class="control-group">
-                        <label for="strength">Minimum Strength</label>
+                        <label for="strength">Minimum Total Strength</label>
                         <select id="strength" required>
                             <option value="1">S (Small) - 1</option>
                             <option value="2">M (Medium) - 2</option>
@@ -533,6 +556,7 @@
         let combosData = [];
         let catHierarchy = {};
         let effectTypes = [];
+        let allCombosWithDetails = [];
 
         // GitHub URLs
         const GITHUB_CATS_URL = 'https://raw.githubusercontent.com/HailXD/BC-Combo/refs/heads/main/cats.tsv';
@@ -567,6 +591,7 @@
                 // Process the data
                 buildCatHierarchy();
                 extractEffectTypes();
+                processAllCombos();
 
                 showDataStatus(`✅ Loaded ${catsData.length} cats and ${combosData.length} combos successfully!`, 'success');
                 
@@ -607,6 +632,7 @@
                 
                 buildCatHierarchy();
                 extractEffectTypes();
+                processAllCombos();
                 
                 showDataStatus(`✅ Loaded ${catsData.length} cats and ${combosData.length} combos from local files!`, 'success');
                 
@@ -710,9 +736,26 @@
             effectTypes = Array.from(types).sort();
         }
 
+        function processAllCombos() {
+            allCombosWithDetails = [];
+            
+            combosData.forEach(combo => {
+                const [effectType, strength] = parseEffectStrength(combo['Effect']);
+                const units = getComboUnits(combo);
+                allCombosWithDetails.push({
+                    name: combo['Name'],
+                    effectType: effectType,
+                    strength: strength,
+                    units: units,
+                    unitCount: units.length,
+                    originalEffect: combo['Effect']
+                });
+            });
+        }
+
         function populateEffectTypes() {
             const select = document.getElementById('effectType');
-            select.innerHTML = '<option value="">Select an effect type...</option>';
+            select.innerHTML = '<option value="">All Effect Types</option>';
             
             effectTypes.forEach(type => {
                 const option = document.createElement('option');
@@ -752,11 +795,6 @@
             const targetStrength = parseInt(document.getElementById('strength').value);
             const maxCats = parseInt(document.getElementById('maxCats').value);
             
-            if (!effectType) {
-                showError('Please select an effect type');
-                return;
-            }
-            
             hideError();
             hideResults();
             showLoading();
@@ -766,7 +804,7 @@
                 try {
                     const results = findComboCombinations(effectType, targetStrength, maxCats);
                     hideLoading();
-                    showResults(results);
+                    showResults(results, effectType);
                 } catch (error) {
                     hideLoading();
                     showError('Error finding combinations: ' + error.message);
@@ -775,106 +813,146 @@
         }
 
         function findComboCombinations(targetEffectType, targetStrength, maxCats) {
-            const matchingCombos = [];
+            let matchingCombos = [];
+            const results = [];
+            const seenCatSets = new Set();
             
-            // Find all combos that match the effect type
-            combosData.forEach(combo => {
-                const [effectType, strength] = parseEffectStrength(combo['Effect']);
-                if (effectType === targetEffectType) {
-                    const units = getComboUnits(combo);
-                    matchingCombos.push({
-                        name: combo['Name'],
-                        effectType: effectType,
-                        strength: strength,
-                        units: units,
-                        unitCount: units.length
-                    });
-                }
-            });
+            if (targetEffectType) {
+                // Specific effect type - only get combos of that type
+                matchingCombos = allCombosWithDetails.filter(combo => 
+                    combo.effectType === targetEffectType
+                );
+            } else {
+                // All effect types - get all combos
+                matchingCombos = [...allCombosWithDetails];
+            }
             
             // Sort by strength descending
             matchingCombos.sort((a, b) => b.strength - a.strength);
             
-            const results = [];
-            const seenCatSets = new Set();
-            
-            // Try different combinations of combos
-            for (let comboCount = 1; comboCount <= Math.min(matchingCombos.length, 5); comboCount++) {
+            // Try combinations of different numbers of combos (1 to 5)
+            for (let comboCount = 1; comboCount <= Math.min(5, matchingCombos.length); comboCount++) {
                 for (const comboCombination of getCombinations(matchingCombos, comboCount)) {
-                    // Calculate total strength
+                    // Calculate total strength by summing all combo strengths
                     const totalStrength = comboCombination.reduce((sum, combo) => sum + combo.strength, 0);
                     
+                    // Check if total strength meets requirement
                     if (totalStrength >= targetStrength) {
                         // Get all unique cats needed
                         const allCats = new Set();
+                        const effectTypesUsed = new Set();
+                        
                         comboCombination.forEach(combo => {
                             combo.units.forEach(unit => allCats.add(unit));
+                            if (combo.effectType) effectTypesUsed.add(combo.effectType);
                         });
                         
+                        // Check if within cat limit
                         if (allCats.size <= maxCats) {
                             const catsSorted = Array.from(allCats).sort();
                             const catsKey = catsSorted.join('|');
                             
+                            // Avoid duplicate cat combinations
                             if (!seenCatSets.has(catsKey)) {
                                 seenCatSets.add(catsKey);
-                                const comboNames = comboCombination.map(c => c.name);
+                                
+                                const comboDetails = comboCombination.map(c => ({
+                                    name: c.name,
+                                    effect: c.originalEffect,
+                                    strength: c.strength
+                                }));
+                                
                                 results.push({
-                                    combos: comboNames,
+                                    combos: comboDetails,
                                     totalStrength: totalStrength,
                                     cats: catsSorted,
-                                    catCount: allCats.size
+                                    catCount: allCats.size,
+                                    effectTypes: Array.from(effectTypesUsed).sort(),
+                                    comboCount: comboCombination.length
                                 });
+                                
+                                // Limit results to prevent performance issues
+                                if (results.length >= 100) break;
                             }
                         }
                     }
                 }
+                if (results.length >= 100) break;
             }
             
-            // Sort by cat count first, then by total strength
+            // Sort results by efficiency
             results.sort((a, b) => {
+                // First priority: fewer cats
                 if (a.catCount !== b.catCount) return a.catCount - b.catCount;
+                // Second priority: fewer combos
+                if (a.comboCount !== b.comboCount) return a.comboCount - b.comboCount;
+                // Third priority: higher total strength
                 return b.totalStrength - a.totalStrength;
             });
             
-            return results.slice(0, 50); // Limit to top 50 results
+            return results.slice(0, 50); // Return top 50 results
         }
 
-        function showResults(results) {
+        function showResults(results, searchedEffectType) {
             const resultsDiv = document.getElementById('results');
             const countDiv = document.getElementById('resultsCount');
             const listDiv = document.getElementById('resultsList');
             
-            countDiv.textContent = `Found ${results.length} combination${results.length !== 1 ? 's' : ''}`;
+            const searchDescription = searchedEffectType ? 
+                `for "${searchedEffectType}"` : 
+                'for all effect types (mixed combos allowed)';
+            
+            countDiv.textContent = `Found ${results.length} combination${results.length !== 1 ? 's' : ''} ${searchDescription}`;
             
             if (results.length === 0) {
                 listDiv.innerHTML = '<div class="no-results">🔍 No combinations found for the selected criteria. Try adjusting your parameters.</div>';
             } else {
-                listDiv.innerHTML = results.map((result, index) => `
-                    <div class="result-item" style="animation-delay: ${index * 0.05}s">
-                        <div class="result-header">
-                            <h3>Option ${index + 1}</h3>
-                            <div class="result-stats">
-                                <span class="stat">💪 Strength: ${result.totalStrength}</span>
-                                <span class="stat">🐱 Cats: ${result.catCount}</span>
-                                <span class="stat">🎯 Combos: ${result.combos.length}</span>
+                listDiv.innerHTML = results.map((result, index) => {
+                    // Calculate individual effect contributions
+                    const effectBreakdown = {};
+                    result.combos.forEach(combo => {
+                        const [effectType, _] = parseEffectStrength(combo.effect);
+                        if (effectType) {
+                            if (!effectBreakdown[effectType]) {
+                                effectBreakdown[effectType] = 0;
+                            }
+                            effectBreakdown[effectType] += combo.strength;
+                        }
+                    });
+                    
+                    return `
+                        <div class="result-item" style="animation-delay: ${index * 0.05}s">
+                            <div class="result-header">
+                                <h3>Option ${index + 1}</h3>
+                                <div class="result-stats">
+                                    <span class="stat">💪 Total Strength: ${result.totalStrength}</span>
+                                    <span class="stat">🐱 Cats: ${result.catCount}</span>
+                                    <span class="stat">🎯 Combos: ${result.combos.length}</span>
+                                    ${!searchedEffectType && Object.keys(effectBreakdown).length > 0 ? 
+                                        Object.entries(effectBreakdown).map(([type, strength]) => 
+                                            `<span class="stat effect-type">✨ ${type}: ${strength}</span>`
+                                        ).join('') : ''}
+                                </div>
                             </div>
-                        </div>
-                        <div class="result-content">
-                            <div class="combo-section">
-                                <h4>Active Combo${result.combos.length > 1 ? 's' : ''}</h4>
-                                <ul class="combo-list">
-                                    ${result.combos.map(combo => `<li>${combo}</li>`).join('')}
-                                </ul>
-                            </div>
-                            <div class="cats-section">
-                                <h4>Required Cats</h4>
-                                <div class="cats-grid">
-                                    ${result.cats.map(cat => `<span class="cat-name">${cat}</span>`).join('')}
+                            <div class="result-content">
+                                <div class="combo-section">
+                                    <h4>Active Combo${result.combos.length > 1 ? 's' : ''}</h4>
+                                    <ul class="combo-list">
+                                        ${result.combos.map(combo => 
+                                            `<li>${combo.name} <span class="combo-effect">[${combo.effect}]</span></li>`
+                                        ).join('')}
+                                    </ul>
+                                </div>
+                                <div class="cats-section">
+                                    <h4>Required Cats</h4>
+                                    <div class="cats-grid">
+                                        ${result.cats.map(cat => `<span class="cat-name">${cat}</span>`).join('')}
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                `).join('');
+                    `;
+                }).join('');
             }
             
             resultsDiv.classList.remove('hidden');
